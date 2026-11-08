@@ -1,5 +1,5 @@
 // Replace YOUR_GITHUB_USERNAME and YOUR_REPO below.
-const URL = 'https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/daily-philosophy.json';
+const URL = 'https://raw.githubusercontent.com/arteafhx99-tech/philosophy-widget/main/daily-philosophy.json';
 const fm = FileManager.local();
 const cache = fm.joinPath(fm.documentsDirectory(), 'philosophy-widget-cache.json');
 let q = null;
