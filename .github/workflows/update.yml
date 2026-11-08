@@ -23,10 +23,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Generate philosophy quote
+      -      - name: Generate philosophy quote
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: gpt-4.1-mini
+          JIEKOU_API_KEY: ${{ secrets.JIEKOU_API_KEY }}
+          JIEKOU_MODEL: gpt-4.1-mini
         run: python generate.py
 
       - name: Commit updated JSON
