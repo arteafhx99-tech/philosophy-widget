@@ -23,7 +23,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      -      - name: Generate philosophy quote
+      - name: Generate philosophy quote
         env:
           JIEKOU_API_KEY: ${{ secrets.JIEKOU_API_KEY }}
           JIEKOU_MODEL: gpt-4.1-mini
