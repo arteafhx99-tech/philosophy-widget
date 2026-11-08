@@ -14,27 +14,72 @@ q.pop('verified', None)
 q['updated_at'] = now.isoformat()
 q['slot'] = f'{now:%Y-%m-%d}-' + ('morning' if now.hour < 12 else 'evening')
 
-# Optional OpenAI API enhancement. Never replace the verified original/source.
-key = os.getenv('OPENAI_API_KEY')
-if key:
-    payload = {
-        'model': os.getenv('OPENAI_MODEL', 'gpt-4.1-mini'),
-        'input': [
-            {'role':'system','content':'你是严谨的哲学文献编辑。只根据用户提供的已核实原文、作者与出处撰写100-200字中文阐释，说明语境与可能的误读。不得改写或杜撰原文、作者、出处，不得声称做了外部核查。只输出阐释正文。'},
-            {'role':'user','content':json.dumps({k:q[k] for k in ['original','english','chinese','author','source']}, ensure_ascii=False)}
-        ],
-        'max_output_tokens': 350
-    }
-    req = urllib.request.Request('https://api.openai.com/v1/responses', data=json.dumps(payload).encode(), headers={'Authorization':'Bearer '+key, 'Content-Type':'application/json'}, method='POST')
-    try:
-        with urllib.request.urlopen(req, timeout=45) as resp:
-            result=json.load(resp)
-        pieces=[c.get('text','') for item in result.get('output',[]) for c in item.get('content',[]) if c.get('type')=='output_text']
-        note=''.join(pieces).strip()
-        if 60 <= len(note) <= 500:
-            q['note']=note
-    except Exception as exc:
-        print('API unavailable; retaining verified fallback note:',exc, file=sys.stderr)
+# Generate a new commentary using JieKou.AI.
+# Preserve the verified quotation, author, and source.
+key = os.getenv("JIEKOU_API_KEY")
+
+if not key:
+    raise RuntimeError("JIEKOU_API_KEY is missing")
+
+payload = {
+    "model": os.getenv("JIEKOU_MODEL", "gpt-4.1-mini"),
+    "messages": [
+        {
+            "role": "system",
+            "content": (
+                "你是严谨的哲学文献编辑。"
+                "只根据用户提供的已核实原文、作者与出处，"
+                "撰写100—200字中文哲学阐释。"
+                "说明原始语境、核心概念及可能的误读。"
+                "不得杜撰原文、作者、出处或页码。"
+                "不得声称进行了外部文献核查。"
+                "只输出阐释正文。"
+            )
+        },
+        {
+            "role": "user",
+            "content": json.dumps(
+                {
+                    k: q[k]
+                    for k in [
+                        "original", "english", "chinese",
+                        "author", "source"
+                    ]
+                },
+                ensure_ascii=False
+            )
+        }
+    ],
+    "max_tokens": 450
+}
+
+url = "https://api.highwayapi.ai/openai/v1/chat/completions"
+
+req = urllib.request.Request(
+    url,
+    data=json.dumps(payload).encode("utf-8"),
+    headers={
+        "Authorization": "Bearer " + key,
+        "Content-Type": "application/json"
+    },
+    method="POST"
+)
+
+try:
+    with urllib.request.urlopen(req, timeout=60) as resp:
+        result = json.load(resp)
+
+    note = result["choices"][0]["message"]["content"].strip()
+
+    if not 60 <= len(note) <= 500:
+        raise ValueError("Generated commentary has invalid length")
+
+    q["note"] = note
+    print("JIEKOU_API_SUCCESS: commentary generated")
+
+except Exception as exc:
+    print("JIEKOU_API_FAILED:", repr(exc), file=sys.stderr)
+    raise
 
 (ROOT / 'daily-philosophy.json').write_text(json.dumps(q, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
 print('Updated:',q['slot'],q['author'])
