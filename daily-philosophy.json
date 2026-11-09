@@ -1,11 +1,15 @@
 {
-  "original": "Je pense, donc je suis.",
-  "english": "I think, therefore I am.",
-  "chinese": "我思，故我在。",
-  "author": "René Descartes",
-  "source": "Discours de la méthode, IV (1637)",
-  "note": "笛卡尔“我思，故我在”是其怀疑主义哲学的基石，旨在确立一个不可置疑的知识起点。在《方法论讲演》第四篇中，他通过系统怀疑剔除一切不确定之物，唯有思考的存在不可否认。这里的“我思”不仅是单纯的心理活动，而是指意识和自我反思的能力，由此证明“我”即主体真实存在。然而，此命题常被误读为单纯的认识论断，而忽视其形而上学和方法论双重意义。笛卡尔并非简单认为思考即存在，而是通过思考活动揭示自我存在的必然性，进而开启主体与世界关系的哲学探究。因此，“我思，故我在”体现了现代哲学中主体性的崛起，提示哲学认识必须建立在清晰明辨、不可怀疑的自我意识基础上。",
-  "updated_at": "2026-11-09T18:52:31.451494+08:00",
-  "slot": "2026-11-09-evening",
-  "note_generated_at": "2026-11-09T18:52:31.451494+08:00"
+  "original": "The maxims are, first, that the individual is not accountable to society for his actions, in so far as these concern the interests of no person but himself.",
+  "english": "The maxims are, first, that the individual is not accountable to society for his actions, in so far as these concern the interests of no person but himself.",
+  "chinese": "第一条准则是，个人对于其行为不对社会负责，只要这些行为仅涉及他自己利益。",
+  "author": "John Stuart Mill",
+  "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
+  "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+  "translation_note": "中文为AI工作译文，未经独立译本校勘",
+  "note": "此引文出自约翰·斯图尔特·穆勒的《论自由》，体现了自由主义思想中的个人权利原则。穆勒强调，个人在其行为仅影响自己利益时，应免于社会干预，这反映了“伤害原则”的核心：只有当行为可能伤害他人时，社会才有干预的正当理由。此观点置于19世纪工业化及社会转型背景下，旨在保护个人自由免受专制或集体主义的过度侵蚀。然而，若断章取义理解为个人利益完全脱离社会关系，容易产生误读，忽略了个人行为在社会网络中的复杂影响。穆勒并非鼓励自私自利，而是界定了自由与责任的边界，强调个体自由必须在不损害他人利益的前提下实现。",
+  "verification_method": "exact_match_to_retrieved_public_domain_text",
+  "verified_at": "2026-11-09",
+  "updated_at": "2026-11-10T04:43:43.752949+08:00",
+  "slot": "2026-11-10-morning",
+  "note_generated_at": "2026-11-10T04:43:43.752949+08:00"
 }
