@@ -1,4 +1,85 @@
 [
-  {"original":"Je pense, donc je suis.","english":"I think, therefore I am.","chinese":"我思，故我在。","author":"René Descartes","source":"Discours de la méthode, IV (1637)","note":"笛卡尔在方法怀疑中指出：即使怀疑一切，怀疑活动本身也无法否定正在思考者的存在。","verified":true},
-  {"original":"Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit.","english":"Enlightenment is the human being’s emergence from his self-incurred minority.","chinese":"启蒙是人摆脱其自我招致的未成年状态。","author":"Immanuel Kant","source":"Beantwortung der Frage: Was ist Aufklärung? (1784), opening; AA VIII, 35","note":"康德把启蒙理解为走出不能独立运用理智的状态；它既要求个人的勇气，也要求理性的公共运用获得自由。","verified":true}
+  {
+    "original": "Je pense, donc je suis.",
+    "english": "I think, therefore I am.",
+    "chinese": "我思，故我在。",
+    "author": "René Descartes",
+    "source": "Discours de la méthode, IV (1637)",
+    "note": "笛卡尔在方法怀疑中指出：即使怀疑一切，怀疑活动本身也无法否定正在思考者的存在。",
+    "verified": true
+  },
+  {
+    "original": "Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit.",
+    "english": "Enlightenment is the human being’s emergence from his self-incurred minority.",
+    "chinese": "启蒙是人摆脱其自我招致的未成年状态。",
+    "author": "Immanuel Kant",
+    "source": "Beantwortung der Frage: Was ist Aufklärung? (1784), opening; AA VIII, 35",
+    "note": "康德把启蒙理解为走出不能独立运用理智的状态；它既要求个人的勇气，也要求理性的公共运用获得自由。",
+    "verified": true
+  },
+  {
+    "original": "The logical principle is as follows: 'Suppose it known that _if_ this is true, then that is true. Suppose it also known that this _is_ true, then it follows that that is true.'",
+    "english": "The logical principle is as follows: 'Suppose it known that _if_ this is true, then that is true. Suppose it also known that this _is_ true, then it follows that that is true.'",
+    "chinese": "逻辑原则如下：‘假设已知如果此为真，则彼为真。假设也已知此为真，则彼必为真。’",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-09"
+  },
+  {
+    "original": "'anything implied by a true proposition is true', or 'whatever follows from a true proposition is true'.",
+    "english": "'anything implied by a true proposition is true', or 'whatever follows from a true proposition is true'.",
+    "chinese": "‘任何由真命题所蕴含的命题都为真’，或‘任何从真命题推导出的命题都为真’。",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-09"
+  },
+  {
+    "original": "For no very good reason, three of these principles have been singled out by tradition under the name of 'Laws of Thought'. They are as follows: (1) _The law of identity_: 'Whatever is, is.' (2) _The law of contradiction_: 'Nothing can both be and not be.' (3) _The law of excluded middle_: 'Everything must either be or not be.'",
+    "english": "For no very good reason, three of these principles have been singled out by tradition under the name of 'Laws of Thought'. They are as follows: (1) _The law of identity_: 'Whatever is, is.' (2) _The law of contradiction_: 'Nothing can both be and not be.' (3) _The law of excluded middle_: 'Everything must either be or not be.'",
+    "chinese": "出于没有很好理由的传统，三条原则被称为‘思维定律’。它们是：(1)同一律：‘存在即存在。’(2)矛盾律：‘无物可同时存在与不存在。’(3)排中律：‘一切事物必为存在或不存在。’",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-09"
+  },
+  {
+    "original": "It must be admitted, for the reasons already stated, that logical principles are known to us, and cannot be themselves proved by experience, since all proof presupposes them.",
+    "english": "It must be admitted, for the reasons already stated, that logical principles are known to us, and cannot be themselves proved by experience, since all proof presupposes them.",
+    "chinese": "必须承认，基于前述理由，逻辑原则为我们所知，且不能由经验证明，因为所有证明都预设了它们。",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-09"
+  },
+  {
+    "original": "The maxims are, first, that the individual is not accountable to society for his actions, in so far as these concern the interests of no person but himself.",
+    "english": "The maxims are, first, that the individual is not accountable to society for his actions, in so far as these concern the interests of no person but himself.",
+    "chinese": "第一条准则是，个人对于其行为不对社会负责，只要这些行为仅涉及他自己利益。",
+    "author": "John Stuart Mill",
+    "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
+    "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-09"
+  }
 ]
