@@ -2,7 +2,8 @@ name: Update philosophy widget
 
 on:
   schedule:
-    - cron: '0 20 * * *'  # 04:00 Asia/Shanghai
+    - cron: '0 20 * * *'  # 04:00 Asia/Shanghai (next day)
+    - cron: '0 4 * * *'   # 12:00 Asia/Shanghai
     - cron: '0 10 * * *'  # 18:00 Asia/Shanghai
   workflow_dispatch:
 
@@ -38,5 +39,5 @@ jobs:
           else
             git commit -m 'Update daily philosophy quote'
             git pull --rebase origin main
-            git push
+            git push origin HEAD:main
           fi
