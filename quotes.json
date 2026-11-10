@@ -211,5 +211,57 @@
     "verified": true,
     "verification_method": "exact_match_to_retrieved_public_domain_text",
     "verified_at": "2026-11-10"
+  },
+  {
+    "original": "if a public authority, or even a private person, sees any one evidently preparing to commit a crime, they are not bound to look on inactive until the crime is committed, but may interfere to prevent it",
+    "english": "if a public authority, or even a private person, sees any one evidently preparing to commit a crime, they are not bound to look on inactive until the crime is committed, but may interfere to prevent it",
+    "chinese": "如果公共权威或甚至私人明显看到有人准备犯罪，他们不必袖手旁观直到犯罪发生，而可以干预以防止犯罪",
+    "author": "John Stuart Mill",
+    "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
+    "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-10"
+  },
+  {
+    "original": "For when a man has weighed things as long as the time permits, and resolves not, the difference of weight is but little; and therefore if he resolve not, he overvalues little things, which is Pusillanimity.",
+    "english": "For when a man has weighed things as long as the time permits, and resolves not, the difference of weight is but little; and therefore if he resolve not, he overvalues little things, which is Pusillanimity.",
+    "chinese": "当一个人尽可能长时间权衡事物却仍无法决定时，差别其实很小；因此若他不决定，就是过分重视小事，这就是怯懦。",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-10"
+  },
+  {
+    "original": "A Restlesse Desire Of Power, In All Men So that in the first place, I put for a generall inclination of all mankind, a perpetuall and restlesse desire of Power after power, that ceaseth onely in Death.",
+    "english": "A Restlesse Desire Of Power, In All Men So that in the first place, I put for a generall inclination of all mankind, a perpetuall and restlesse desire of Power after power, that ceaseth onely in Death.",
+    "chinese": "所有人都有一种永不停息的权力欲望，这种欲望只有在死亡时才停止。",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-10"
+  },
+  {
+    "original": "The fact is that, in simple mathematical judgements such as 'two and two are four', and also in many judgements of logic, we can know the general proposition without inferring it from instances",
+    "english": "The fact is that, in simple mathematical judgements such as 'two and two are four', and also in many judgements of logic, we can know the general proposition without inferring it from instances",
+    "chinese": "事实是，在诸如“二加二等于四”这样的简单数学判断中，以及许多逻辑判断中，我们可以在不从实例推断的情况下知道一般命题。",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-10"
   }
 ]

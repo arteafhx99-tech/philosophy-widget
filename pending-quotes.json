@@ -34,5 +34,41 @@
     "status": "needs_review",
     "reason": "Exact quotation not found in retrieved text",
     "discovered_at": "2026-11-10"
+  },
+  {
+    "original": "It is an old debate among philosophers whether deduction ever gives new knowledge",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-10"
+  },
+  {
+    "original": "This illustrates the difference between general propositions known a priori such as 'two and two are four', and empirical generalizations such as 'all men are mortal'",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-10"
+  },
+  {
+    "original": "Before the time of Kant, it was generally held that whatever knowledge was a priori must be 'analytic'",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-10"
+  },
+  {
+    "original": "Kant pointed out, quite truly, that 7 and 5 have to be put together to give 12: the idea of 12 is not contained in them, nor even in the idea of adding them together",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-10"
   }
 ]
