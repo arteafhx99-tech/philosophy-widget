@@ -1,15 +1,15 @@
 {
-  "original": "The logical principle is as follows: 'Suppose it known that _if_ this is true, then that is true. Suppose it also known that this _is_ true, then it follows that that is true.'",
-  "english": "The logical principle is as follows: 'Suppose it known that _if_ this is true, then that is true. Suppose it also known that this _is_ true, then it follows that that is true.'",
-  "chinese": "逻辑原则如下：‘假设已知如果此为真，则彼为真。假设也已知此为真，则彼必为真。’",
-  "author": "Bertrand Russell",
-  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
-  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+  "original": "The Greatest of humane Powers, is that which is compounded of the Powers of most men, united by consent, in one person, Naturall, or civill, that has the use of all their Powers depending on his will; such as is the Power of a Common-wealth",
+  "english": "The Greatest of humane Powers, is that which is compounded of the Powers of most men, united by consent, in one person, Naturall, or civill, that has the use of all their Powers depending on his will; such as is the Power of a Common-wealth",
+  "chinese": "人类最大的权力，是由多数人同意联合于一人之下的权力，无论自然或公民，该人可支配所有人的权力；如一个国家的权力。",
+  "author": "Thomas Hobbes",
+  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "罗素在《哲学问题》中阐释的这一逻辑原则，实际上是对经典命题逻辑中“假言推理”（modus ponens）规则的简明描述。其思想语境源自对理性推理基础的探寻，强调从条件判断“如果此为真，则彼为真”与前件“此为真”两者的确定性出发，合乎规则地推导结论“彼为真”。这种规则在哲学中具有关键意义，因为它保障了推理的有效性和知识的合理展开。误读时，可能会将此原则视为仅适用于日常言语推断，而忽略其作为形式逻辑核心工具的普遍性与严格性。此外，忽视这一原则背后的“已知”前提，可能导致对推理条件缺乏清晰界定，影响对论证有效性的评判。罗素强调这一原则，旨在展示哲学认识论中如何借逻辑确保推理的可靠性。",
+  "note": "霍布斯在此论述了国家权力的本质，即“人类最大的权力”源自众多人集体授权于一人，无论是自然权力还是公民权力，这位统治者拥有支配所有人的权力。其思想基于社会契约理论，强调个人主权让渡以实现社会稳定和秩序，体现了霍布斯对“利维坦”即绝对主权者的构想。此处强调的是权力统一与集中的必要性，避免权力分散导致的内战和混乱。然而，若将其理解为支持暴政或专制而忽略其契约的前提和公民同意的基础，容易导致误读。霍布斯的权力观既是对混乱状态的反思，也是建立和平的合理安排，体现了其对人性悲观和政治现实主义的深刻认识。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
   "verified_at": "2026-11-09",
-  "updated_at": "2026-11-10T21:41:57.087319+08:00",
-  "slot": "2026-11-10-evening",
-  "note_generated_at": "2026-11-10T21:41:57.087319+08:00"
+  "updated_at": "2026-11-11T04:37:27.102003+08:00",
+  "slot": "2026-11-11-morning",
+  "note_generated_at": "2026-11-11T04:37:27.102003+08:00"
 }
