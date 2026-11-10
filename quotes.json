@@ -146,5 +146,70 @@
     "verified": true,
     "verification_method": "exact_match_to_retrieved_public_domain_text",
     "verified_at": "2026-11-09"
+  },
+  {
+    "original": "trade is a social act. Whoever undertakes to sell any description of goods to the public, does what affects the interest of other persons, and of society in general",
+    "english": "trade is a social act. Whoever undertakes to sell any description of goods to the public, does what affects the interest of other persons, and of society in general",
+    "chinese": "贸易是一种社会行为。无论谁承担向公众出售任何种类的商品，都影响其他人的利益以及整个社会的利益",
+    "author": "John Stuart Mill",
+    "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
+    "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-10"
+  },
+  {
+    "original": "both the cheapness and the good quality of commodities are most effectually provided for by leaving the producers and sellers perfectly free, under the sole check of equal freedom to the buyers",
+    "english": "both the cheapness and the good quality of commodities are most effectually provided for by leaving the producers and sellers perfectly free, under the sole check of equal freedom to the buyers",
+    "chinese": "商品的廉价和优良品质最有效的保障是让生产者和销售者完全自由，同时买家享有同等的自由选择权",
+    "author": "John Stuart Mill",
+    "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
+    "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-10"
+  },
+  {
+    "original": "liberty consists in doing what one desires, and he does not desire to fall into the river",
+    "english": "liberty consists in doing what one desires, and he does not desire to fall into the river",
+    "chinese": "自由就是做自己想做的事，而他并不想落入河中",
+    "author": "John Stuart Mill",
+    "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
+    "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-10"
+  },
+  {
+    "original": "Honourable is whatsoever possession, action, or quality, is an argument and signe of Power.",
+    "english": "Honourable is whatsoever possession, action, or quality, is an argument and signe of Power.",
+    "chinese": "凡是作为权力的论据和标志的所有物、行动或品质都是可敬的。",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-10"
+  },
+  {
+    "original": "To be Honoured, loved, or feared of many, is Honourable; as arguments of Power.",
+    "english": "To be Honoured, loved, or feared of many, is Honourable; as arguments of Power.",
+    "chinese": "被许多人尊敬、爱戴或畏惧，是可敬的；因为这些都是权力的表现。",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-10"
   }
 ]

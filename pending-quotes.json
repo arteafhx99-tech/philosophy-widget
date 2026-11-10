@@ -16,5 +16,23 @@
     "status": "needs_review",
     "reason": "Exact quotation not found in retrieved text",
     "discovered_at": "2026-11-09"
+  },
+  {
+    "original": "restrictions on trade, or on production for purposes of trade, are indeed restraints; and all restraint, quâ restraint, is an evil",
+    "author": "John Stuart Mill",
+    "source": "On Liberty",
+    "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-10"
+  },
+  {
+    "original": "if people must be allowed, in whatever concerns only themselves, to act as seems best to themselves at their own peril, they must equally be free to consult with one another about what is fit to be so done",
+    "author": "John Stuart Mill",
+    "source": "On Liberty",
+    "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-10"
   }
 ]
