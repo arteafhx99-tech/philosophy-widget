@@ -1,15 +1,15 @@
 {
-  "original": "The maxims are, first, that the individual is not accountable to society for his actions, in so far as these concern the interests of no person but himself.",
-  "english": "The maxims are, first, that the individual is not accountable to society for his actions, in so far as these concern the interests of no person but himself.",
-  "chinese": "第一条准则是，个人对于其行为不对社会负责，只要这些行为仅涉及他自己利益。",
-  "author": "John Stuart Mill",
-  "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
-  "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+  "original": "The logical principle is as follows: 'Suppose it known that _if_ this is true, then that is true. Suppose it also known that this _is_ true, then it follows that that is true.'",
+  "english": "The logical principle is as follows: 'Suppose it known that _if_ this is true, then that is true. Suppose it also known that this _is_ true, then it follows that that is true.'",
+  "chinese": "逻辑原则如下：‘假设已知如果此为真，则彼为真。假设也已知此为真，则彼必为真。’",
+  "author": "Bertrand Russell",
+  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "此引文出自约翰·斯图尔特·穆勒的《论自由》，体现了自由主义思想中的个人权利原则。穆勒强调，个人在其行为仅影响自己利益时，应免于社会干预，这反映了“伤害原则”的核心：只有当行为可能伤害他人时，社会才有干预的正当理由。此观点置于19世纪工业化及社会转型背景下，旨在保护个人自由免受专制或集体主义的过度侵蚀。然而，若断章取义理解为个人利益完全脱离社会关系，容易产生误读，忽略了个人行为在社会网络中的复杂影响。穆勒并非鼓励自私自利，而是界定了自由与责任的边界，强调个体自由必须在不损害他人利益的前提下实现。",
+  "note": "罗素在《哲学问题》中提出的这一逻辑原则，体现了演绎推理的基本结构，即“如果P则Q，且P为真，因此Q必真”。这一原则构成了形式逻辑的核心，确保了命题之间因果关系和真值传递的严密性。在哲学语境中，罗素强调这一演绎规则的普适性与基础地位，意图通过清晰的逻辑分析解决哲学疑难问题。值得注意的是，此原则尽管表述简洁，但易被误读为“因果必然”或“经验关系”，事实上它仅是形而上学中严谨推理的工具，独立于具体内容的真伪判断。因此，正确理解该原则，有助于避免逻辑推演中的非理性跳跃，并奠定哲学探讨的理性基础。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
   "verified_at": "2026-11-09",
-  "updated_at": "2026-11-10T04:43:43.752949+08:00",
-  "slot": "2026-11-10-morning",
-  "note_generated_at": "2026-11-10T04:43:43.752949+08:00"
+  "updated_at": "2026-11-10T18:50:05.628570+08:00",
+  "slot": "2026-11-10-evening",
+  "note_generated_at": "2026-11-10T18:50:05.628570+08:00"
 }
