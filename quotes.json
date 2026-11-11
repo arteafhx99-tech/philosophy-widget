@@ -263,5 +263,70 @@
     "verified": true,
     "verification_method": "exact_match_to_retrieved_public_domain_text",
     "verified_at": "2026-11-10"
+  },
+  {
+    "original": "Competition of Riches, Honour, command, or other power, enclineth to Contention, Enmity, and War: because the way of one Competitor, to the attaining of his desire, is to kill, subdue, supplant, or repell the other.",
+    "english": "Competition of Riches, Honour, command, or other power, enclineth to Contention, Enmity, and War: because the way of one Competitor, to the attaining of his desire, is to kill, subdue, supplant, or repell the other.",
+    "chinese": "财富、荣誉、指挥或其他权力的竞争倾向于争斗、敌意和战争：因为一个竞争者达到其欲望的方式是杀死、征服、取代或击退另一个。",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-11"
+  },
+  {
+    "original": "Desire of Ease, and sensuall Delight, disposeth men to obey a common Power: because by such Desires, a man doth abandon the protection might be hoped for from his own Industry, and labour.",
+    "english": "Desire of Ease, and sensuall Delight, disposeth men to obey a common Power: because by such Desires, a man doth abandon the protection might be hoped for from his own Industry, and labour.",
+    "chinese": "对安逸和感官享乐的渴望使人们服从共同的权力：因为通过这种欲望，人们放弃了对自身努力和劳动所能期望的保护。",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-11"
+  },
+  {
+    "original": "Fear of Death, and Wounds, disposeth to the same; and for the same reason.",
+    "english": "Fear of Death, and Wounds, disposeth to the same; and for the same reason.",
+    "chinese": "对死亡和伤害的恐惧也导致同样的服从，原因相同。",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-11"
+  },
+  {
+    "original": "Desire of Knowledge, and Arts of Peace, enclineth men to obey a common Power: For such Desire, containeth a desire of leasure; and consequently protection from some other Power than their own.",
+    "english": "Desire of Knowledge, and Arts of Peace, enclineth men to obey a common Power: For such Desire, containeth a desire of leasure; and consequently protection from some other Power than their own.",
+    "chinese": "对知识和和平艺术的渴望使人们倾向于服从共同的权力：因为这种渴望包含对闲暇的渴望，因此希望得到除自身以外的某种权力的保护。",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-11"
+  },
+  {
+    "original": "When we judge that two and two are four, we are not making a judgement about our thoughts, but about all actual or possible couples.",
+    "english": "When we judge that two and two are four, we are not making a judgement about our thoughts, but about all actual or possible couples.",
+    "chinese": "当我们判断二加二等于四时，我们不是在对我们的思想作判断，而是在对所有实际或可能的对象作判断。",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-11"
   }
 ]

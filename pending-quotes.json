@@ -70,5 +70,23 @@
     "status": "needs_review",
     "reason": "Exact quotation not found in retrieved text",
     "discovered_at": "2026-11-10"
+  },
+  {
+    "original": "Ignorance of the causes, and originall constitution of Right, Equity, Law, and Justice, disposeth a man to make Custome and Example the rule of his actions; in such manner, as to think that Unjust which it hath been the custome to punish; and that Just, of the impunity and approbation whereof they can produce an Example.",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-11"
+  },
+  {
+    "original": "The law of contradiction is about things, and not merely about thoughts; and although belief in the law of contradiction is a thought, the law of contradiction itself is not a thought, but a fact concerning the things in the world.",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-11"
   }
 ]
