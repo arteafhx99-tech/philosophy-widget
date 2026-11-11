@@ -1,15 +1,15 @@
 {
-  "original": "To be Honoured, loved, or feared of many, is Honourable; as arguments of Power.",
-  "english": "To be Honoured, loved, or feared of many, is Honourable; as arguments of Power.",
-  "chinese": "被许多人尊敬、爱戴或畏惧，是可敬的；因为这些都是权力的表现。",
-  "author": "Thomas Hobbes",
-  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
-  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+  "original": "both the cheapness and the good quality of commodities are most effectually provided for by leaving the producers and sellers perfectly free, under the sole check of equal freedom to the buyers",
+  "english": "both the cheapness and the good quality of commodities are most effectually provided for by leaving the producers and sellers perfectly free, under the sole check of equal freedom to the buyers",
+  "chinese": "商品的廉价和优良品质最有效的保障是让生产者和销售者完全自由，同时买家享有同等的自由选择权",
+  "author": "John Stuart Mill",
+  "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
+  "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "霍布斯在《利维坦》中提出，被许多人尊敬、爱戴或畏惧的状态之所以“可敬”，是因为这是权力（Power）得以彰显的具体表现。这里的“荣誉”并非传统意义上单纯的道德赞誉，而是权力的外在标志，是政治权威的象征。霍布斯强调权力是社会秩序的根基，荣誉感则源于他人对权力的认可与反应。因此，将被尊敬、爱戴或畏惧视为荣誉，反映了权力在维系社会契约和防止混乱中的核心地位。若仅理解为个人声望或道德评价，便会忽略霍布斯权力理论的实用主义和政治现实主义背景，可能导致对其政治哲学的误读。",
+  "note": "这段话出自约翰·斯图尔特·密尔的《论自由》，反映了其关于市场自由与个体选择权的核心思想。在密尔看来，市场机制中生产者和销售者的自由活动，与买家享有平等选择权共同构成了保障商品质量和价格合理性的基础。这一观点体现了自由主义经济思想，强调竞争机制促使生产者提升质量、降低成本。然而，若脱离当时19世纪工业资本主义的语境，可能被误解为市场万能或无须任何监管。实际上，密尔承认市场自由需要在法律和公共道德框架下运行，且买家的“同等自由”隐含着信息透明和公平竞争的条件。因此，这段话强调的是一种双向的自由与平衡，而非单方面的放任自流。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
   "verified_at": "2026-11-10",
-  "updated_at": "2026-11-11T18:55:01.146084+08:00",
-  "slot": "2026-11-11-evening",
-  "note_generated_at": "2026-11-11T18:55:01.146084+08:00"
+  "updated_at": "2026-11-12T05:26:15.367352+08:00",
+  "slot": "2026-11-12-morning",
+  "note_generated_at": "2026-11-12T05:26:15.367352+08:00"
 }
