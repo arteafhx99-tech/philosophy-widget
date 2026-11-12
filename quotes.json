@@ -328,5 +328,70 @@
     "verified": true,
     "verification_method": "exact_match_to_retrieved_public_domain_text",
     "verified_at": "2026-11-11"
+  },
+  {
+    "original": "It will be seen that no sentence can be made up without at least one word which denotes a universal.",
+    "english": "It will be seen that no sentence can be made up without at least one word which denotes a universal.",
+    "chinese": "可以看出，没有至少一个表示普遍性的词，就无法组成句子。",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-12"
+  },
+  {
+    "original": "Thus all truths involve universals, and all knowledge of truths involves acquaintance with universals.",
+    "english": "Thus all truths involve universals, and all knowledge of truths involves acquaintance with universals.",
+    "chinese": "因此，所有真理都涉及普遍性，所有对真理的认识都涉及对普遍性的认识。",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-12"
+  },
+  {
+    "original": "The relation of resemblance, therefore, must be a true universal.",
+    "english": "The relation of resemblance, therefore, must be a true universal.",
+    "chinese": "因此，相似关系必须是真正的普遍性。",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-12"
+  },
+  {
+    "original": "Hence we must admit that the relation, like the terms it relates, is not dependent upon thought, but belongs to the independent world which thought apprehends but does not create.",
+    "english": "Hence we must admit that the relation, like the terms it relates, is not dependent upon thought, but belongs to the independent world which thought apprehends but does not create.",
+    "chinese": "因此，我们必须承认关系，像它所关联的项一样，不依赖于思想，而属于思想所理解但不创造的独立世界。",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-12"
+  },
+  {
+    "original": "Thus universals are not thoughts, though when known they are the objects of thoughts.",
+    "english": "Thus universals are not thoughts, though when known they are the objects of thoughts.",
+    "chinese": "因此，普遍性不是思想，尽管当被认识时它们是思想的对象。",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-12"
   }
 ]
