@@ -1,15 +1,15 @@
 {
-  "original": "if a public authority, or even a private person, sees any one evidently preparing to commit a crime, they are not bound to look on inactive until the crime is committed, but may interfere to prevent it",
-  "english": "if a public authority, or even a private person, sees any one evidently preparing to commit a crime, they are not bound to look on inactive until the crime is committed, but may interfere to prevent it",
-  "chinese": "如果公共权威或甚至私人明显看到有人准备犯罪，他们不必袖手旁观直到犯罪发生，而可以干预以防止犯罪",
-  "author": "John Stuart Mill",
-  "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
-  "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+  "original": "The fact is that, in simple mathematical judgements such as 'two and two are four', and also in many judgements of logic, we can know the general proposition without inferring it from instances",
+  "english": "The fact is that, in simple mathematical judgements such as 'two and two are four', and also in many judgements of logic, we can know the general proposition without inferring it from instances",
+  "chinese": "事实是，在诸如“二加二等于四”这样的简单数学判断中，以及许多逻辑判断中，我们可以在不从实例推断的情况下知道一般命题。",
+  "author": "Bertrand Russell",
+  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "这段话出自约翰·斯图亚特·密尔的《论自由》，反映了他对介入行为界限的思考。密尔强调，公共权威甚至私人当观察到明显的犯罪预备行为时，有权干预以防止犯罪的发生。这体现了他关于自由与安全之间权衡的原则：个体自由虽重要，但在预防明显危害时，社会有合理干预的正当性。然而，密尔也警示过度干预可能损害自由，故此句需避免被误读为支持无根据的事前干涉。其核心在于“明显准备”与“合理预防”的限定，确保干预不至于成为镇压或任意侵犯自由的工具。该论述处于19世纪自由主义法律与道德责任交织的语境中，反映了对公共权力界限与个体责任的哲学探讨。",
+  "note": "罗素在此强调了数学和逻辑判断的先验性质，表明某些一般命题的认知并非依赖经验实例的归纳推理，而是可以直接把握其必然性。这体现了他对知识来源的分析，区分了经验知识与纯理性知识，呼应了康德关于先验知识的哲学传统。罗素试图表明数学命题如“二加二等于四”具有绝对的普遍性和必然性，不依赖于具体案例的观察，从而表现出数学和逻辑推理的特殊地位。一种潜在的误读可能是将这段话理解为否定经验在所有知识中的作用，然而罗素并未否定经验的重要性，而是指出在某些领域，知识的确具有非经验性的基础。这对于理解逻辑实证主义及分析哲学中理性与经验的关系尤为关键。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
   "verified_at": "2026-11-10",
-  "updated_at": "2026-11-12T18:56:45.358725+08:00",
-  "slot": "2026-11-12-evening",
-  "note_generated_at": "2026-11-12T18:56:45.358725+08:00"
+  "updated_at": "2026-11-13T04:41:38.707006+08:00",
+  "slot": "2026-11-13-morning",
+  "note_generated_at": "2026-11-13T04:41:38.707006+08:00"
 }
