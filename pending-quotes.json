@@ -88,5 +88,41 @@
     "status": "needs_review",
     "reason": "Exact quotation not found in retrieved text",
     "discovered_at": "2026-11-11"
+  },
+  {
+    "original": "Where God himselfe, by supernaturall Revelation, planted Religion; there he also made to himselfe a peculiar Kingdome; and gave Lawes, not only of behaviour towards himselfe; but also towards one another; and thereby in the Kingdome of God, the Policy, and lawes Civill, are a part of Religion;",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-13"
+  },
+  {
+    "original": "All a priori knowledge deals exclusively with the relations of universals.",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-13"
+  },
+  {
+    "original": "No fact concerning anything capable of being experienced can be known independently of experience.",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-13"
+  },
+  {
+    "original": "The difference between an a priori general proposition and an empirical generalization does not come in the meaning of the proposition; it comes in the nature of the evidence for it.",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-13"
   }
 ]

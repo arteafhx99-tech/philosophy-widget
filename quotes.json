@@ -393,5 +393,57 @@
     "verified": true,
     "verification_method": "exact_match_to_retrieved_public_domain_text",
     "verified_at": "2026-11-12"
+  },
+  {
+    "original": "And by these, and such other Institutions, they obtayned in order to their end, (which was the peace of the Commonwealth,) that the common people in their misfortunes, laying the fault on neglect, or errour in their Ceremonies, or on their own disobedience to the lawes, were the lesse apt to mutiny against their Governors.",
+    "english": "And by these, and such other Institutions, they obtayned in order to their end, (which was the peace of the Commonwealth,) that the common people in their misfortunes, laying the fault on neglect, or errour in their Ceremonies, or on their own disobedience to the lawes, were the lesse apt to mutiny against their Governors.",
+    "chinese": "通过这些及其他类似的制度，他们达到了目的（即国家的和平），使得普通人在遭遇不幸时，将过错归咎于对仪式的疏忽或错误，或归咎于自己对法律的不服从，从而减少了对统治者的反抗倾向。",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-13"
+  },
+  {
+    "original": "For seeing all formed Religion, is founded at first, upon the faith which a multitude hath in some one person, whom they believe not only to be a wise man, and to labour to procure their happiness, but also to be a holy man, to whom God himselfe vouchsafeth to declare his will supernaturally;",
+    "english": "For seeing all formed Religion, is founded at first, upon the faith which a multitude hath in some one person, whom they believe not only to be a wise man, and to labour to procure their happiness, but also to be a holy man, to whom God himselfe vouchsafeth to declare his will supernaturally;",
+    "chinese": "因为所有成形的宗教最初都是建立在大众对某个人的信仰之上，他们相信此人不仅是一个智慧的人，努力为他们谋求幸福，而且是一个圣人，上帝亲自赐予他以超自然的方式宣示其旨意。",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-13"
+  },
+  {
+    "original": "It is quite unnecessary to know all the couples in the world: if it were necessary, obviously we could never understand the proposition, since the couples are infinitely numerous and therefore cannot all be known to us.",
+    "english": "It is quite unnecessary to know all the couples in the world: if it were necessary, obviously we could never understand the proposition, since the couples are infinitely numerous and therefore cannot all be known to us.",
+    "chinese": "完全没有必要知道世界上所有的配偶：如果必须知道，显然我们永远无法理解该命题，因为配偶数量无限，无法全部被我们知晓。",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-13"
+  },
+  {
+    "original": "Thus the statement 'two and two are four' deals exclusively with universals, and therefore may be known by anybody who is acquainted with the universals concerned and can perceive the relation between them which the statement asserts.",
+    "english": "Thus the statement 'two and two are four' deals exclusively with universals, and therefore may be known by anybody who is acquainted with the universals concerned and can perceive the relation between them which the statement asserts.",
+    "chinese": "因此，“二加二等于四”的陈述专门处理普遍性，因此任何熟悉相关普遍性并能感知其关系的人都能知道该命题。",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-13"
   }
 ]
