@@ -1,15 +1,15 @@
 {
-  "original": "The fact is that, in simple mathematical judgements such as 'two and two are four', and also in many judgements of logic, we can know the general proposition without inferring it from instances",
-  "english": "The fact is that, in simple mathematical judgements such as 'two and two are four', and also in many judgements of logic, we can know the general proposition without inferring it from instances",
-  "chinese": "事实是，在诸如“二加二等于四”这样的简单数学判断中，以及许多逻辑判断中，我们可以在不从实例推断的情况下知道一般命题。",
+  "original": "When we judge that two and two are four, we are not making a judgement about our thoughts, but about all actual or possible couples.",
+  "english": "When we judge that two and two are four, we are not making a judgement about our thoughts, but about all actual or possible couples.",
+  "chinese": "当我们判断二加二等于四时，我们不是在对我们的思想作判断，而是在对所有实际或可能的对象作判断。",
   "author": "Bertrand Russell",
   "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
   "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "罗素在此强调了数学和逻辑判断的先验性质，表明某些一般命题的认知并非依赖经验实例的归纳推理，而是可以直接把握其必然性。这体现了他对知识来源的分析，区分了经验知识与纯理性知识，呼应了康德关于先验知识的哲学传统。罗素试图表明数学命题如“二加二等于四”具有绝对的普遍性和必然性，不依赖于具体案例的观察，从而表现出数学和逻辑推理的特殊地位。一种潜在的误读可能是将这段话理解为否定经验在所有知识中的作用，然而罗素并未否定经验的重要性，而是指出在某些领域，知识的确具有非经验性的基础。这对于理解逻辑实证主义及分析哲学中理性与经验的关系尤为关键。",
+  "note": "罗素在此提出了一个重要的认识论观点，即数学判断具有客观性和普遍性。表达“二加二等于四”时，我们并非仅仅反思自己的心理状态或观念内容，而是涉及对所有现实存在或可能存在的“二”的组合的判断。这意味着数学真理超越个体主观经验，指向外在世界的普遍结构，从而确立了数学命题的客观有效性。这个观点反驳了唯主观主义的误读，强调了理性在知识中的基础地位，同时也体现了罗素的逻辑实证主义色彩，试图将数学基础建立在对普遍对象的逻辑分析之上。理解此语境，有助于避免将数学真理简化为纯粹心理判断的误区。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-10",
-  "updated_at": "2026-11-13T04:41:38.707006+08:00",
-  "slot": "2026-11-13-morning",
-  "note_generated_at": "2026-11-13T04:41:38.707006+08:00"
+  "verified_at": "2026-11-11",
+  "updated_at": "2026-11-13T12:53:33.459507+08:00",
+  "slot": "2026-11-13-evening",
+  "note_generated_at": "2026-11-13T12:53:33.459507+08:00"
 }

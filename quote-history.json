@@ -38,5 +38,10 @@
     "slot": "2026-11-13-morning",
     "original": "The fact is that, in simple mathematical judgements such as 'two and two are four', and also in many judgements of logic, we can know the general proposition without inferring it from instances",
     "author": "Bertrand Russell"
+  },
+  {
+    "slot": "2026-11-13-evening",
+    "original": "When we judge that two and two are four, we are not making a judgement about our thoughts, but about all actual or possible couples.",
+    "author": "Bertrand Russell"
   }
 ]
