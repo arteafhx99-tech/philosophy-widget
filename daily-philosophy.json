@@ -1,15 +1,15 @@
 {
-  "original": "When we judge that two and two are four, we are not making a judgement about our thoughts, but about all actual or possible couples.",
-  "english": "When we judge that two and two are four, we are not making a judgement about our thoughts, but about all actual or possible couples.",
-  "chinese": "当我们判断二加二等于四时，我们不是在对我们的思想作判断，而是在对所有实际或可能的对象作判断。",
+  "original": "For no very good reason, three of these principles have been singled out by tradition under the name of 'Laws of Thought'. They are as follows: (1) _The law of identity_: 'Whatever is, is.' (2) _The law of contradiction_: 'Nothing can both be and not be.' (3) _The law of excluded middle_: 'Everything must either be or not be.'",
+  "english": "For no very good reason, three of these principles have been singled out by tradition under the name of 'Laws of Thought'. They are as follows: (1) _The law of identity_: 'Whatever is, is.' (2) _The law of contradiction_: 'Nothing can both be and not be.' (3) _The law of excluded middle_: 'Everything must either be or not be.'",
+  "chinese": "出于没有很好理由的传统，三条原则被称为‘思维定律’。它们是：(1)同一律：‘存在即存在。’(2)矛盾律：‘无物可同时存在与不存在。’(3)排中律：‘一切事物必为存在或不存在。’",
   "author": "Bertrand Russell",
   "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
   "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "这段话出自罗素的《哲学问题》，体现了他对抽象概念和普遍真理的理解。罗素强调数学判断如“二加二等于四”并非关于主观思维状态的陈述，而是关于对象世界中所有相应组合的客观事实。这种观点体现了他的逻辑实证主义倾向，主张知识基于外部实在而非内心意识。可能的误读是在于将数学判断视为心理状态的描述，而忽略其普遍适用性和客观性。罗素在此试图clarify数学判断的本质，指出它们超越个体经验，属于关于“实际或可能的对象”的真实性断言，从而维护数学作为普遍且客观真理的地位。",
+  "note": "罗素在这段话中反思了传统逻辑中所谓“思维定律”的地位与合理性，指出将同一律、矛盾律和排中律三条原则视为不可动摇的思想基础，实际上并无充分理由。该观点反映出罗素对形式逻辑基础的批判性考察，强调这些“定律”并非自明的真理，而是在逻辑体系构建中被约定俗成的重要规则。这种态度提醒我们避免将逻辑原则神秘化，忽略其作为哲学和数学推理工具的历史与语境。误读可能出现在将这些定律简单地视为绝对真理或普遍适用的思维法则，而忽略罗素对它们背后假设和适用范围的审视。通过这一段话，罗素促使读者认识到逻辑定律的规范性与约定性，而非哲学上不可辩驳的实体主义断言。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-11",
-  "updated_at": "2026-11-13T18:54:54.910448+08:00",
-  "slot": "2026-11-13-evening",
-  "note_generated_at": "2026-11-13T18:54:54.910448+08:00"
+  "verified_at": "2026-11-09",
+  "updated_at": "2026-11-14T04:45:39.588792+08:00",
+  "slot": "2026-11-14-morning",
+  "note_generated_at": "2026-11-14T04:45:39.588792+08:00"
 }
