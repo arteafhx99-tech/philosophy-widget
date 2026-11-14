@@ -1,15 +1,15 @@
 {
-  "original": "'anything implied by a true proposition is true', or 'whatever follows from a true proposition is true'.",
-  "english": "'anything implied by a true proposition is true', or 'whatever follows from a true proposition is true'.",
-  "chinese": "‘任何由真命题所蕴含的命题都为真’，或‘任何从真命题推导出的命题都为真’。",
-  "author": "Bertrand Russell",
-  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
-  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+  "original": "For seeing all formed Religion, is founded at first, upon the faith which a multitude hath in some one person, whom they believe not only to be a wise man, and to labour to procure their happiness, but also to be a holy man, to whom God himselfe vouchsafeth to declare his will supernaturally;",
+  "english": "For seeing all formed Religion, is founded at first, upon the faith which a multitude hath in some one person, whom they believe not only to be a wise man, and to labour to procure their happiness, but also to be a holy man, to whom God himselfe vouchsafeth to declare his will supernaturally;",
+  "chinese": "因为所有成形的宗教最初都是建立在大众对某个人的信仰之上，他们相信此人不仅是一个智慧的人，努力为他们谋求幸福，而且是一个圣人，上帝亲自赐予他以超自然的方式宣示其旨意。",
+  "author": "Thomas Hobbes",
+  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "罗素在此强调的是逻辑真理的传递性，即若一个命题为真，则所有从该命题中逻辑推导出的命题也必须为真。这一观点植根于经典逻辑和分析哲学的语境，反映出对“蕴含”（implication）关系的重视。需要注意的是，该论断并非简单的语言游戏或语义问题，而是对真实性和推理有效性的根本认识。然而，误读可能出现于将该原则机械地应用于所有含义上，例如忽视了前提出发点的真实性，如果前提为假，则推导结果不必为真。此外，现代逻辑中涵盖了不同的蕴含概念（如物质蕴含和严格蕴含），而罗素的描述更贴近物质蕴含，故在特定语境下需谨慎理解其适用范围。",
+  "note": "霍布斯在《利维坦》中这段论述，揭示了宗教起源的社会心理基础。他认为，成形的宗教并非仅凭教义或仪式，而是基于大众对某一领袖人物的共同信仰，这个人不仅被视为智慧且关心众人福祉，更被赋予了神圣身份，因此被认定为上帝意志的中介者。此观点反映出霍布斯对宗教权威来源的现实主义理解，强调宗教权力建立在信众的集体信任和对超自然权威的认可上，而非纯粹的客观真理。这有助于避免将宗教绝对化为天启真理，亦警示误读宗教为单纯的神秘经验或个人灵感，忽略其作为政治与社会秩序工具的作用。霍布斯试图通过这一分析，为现代国家权威提供哲学正当性，同时剖析宗教在维持社会稳定中的功能。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-09",
-  "updated_at": "2026-11-14T18:37:42.314184+08:00",
-  "slot": "2026-11-14-evening",
-  "note_generated_at": "2026-11-14T18:37:42.314184+08:00"
+  "verified_at": "2026-11-13",
+  "updated_at": "2026-11-15T04:29:27.035562+08:00",
+  "slot": "2026-11-15-morning",
+  "note_generated_at": "2026-11-15T04:29:27.035562+08:00"
 }
