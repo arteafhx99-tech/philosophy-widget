@@ -445,5 +445,70 @@
     "verified": true,
     "verification_method": "exact_match_to_retrieved_public_domain_text",
     "verified_at": "2026-11-13"
+  },
+  {
+    "original": "That which taketh away the reputation of Wisedome, in him that formeth a Religion, or addeth to it when it is allready formed, is the enjoyning of a beliefe of contradictories",
+    "english": "That which taketh away the reputation of Wisedome, in him that formeth a Religion, or addeth to it when it is allready formed, is the enjoyning of a beliefe of contradictories",
+    "chinese": "剥夺智慧声誉的是在形成宗教或对已形成的宗教添加内容时，强制信仰矛盾的信条。",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-14"
+  },
+  {
+    "original": "That which taketh away the reputation of Love, is the being detected of private ends: as when the beliefe they require of others, conduceth or seemeth to conduce to the acquiring of Dominion, Riches, Dignity, or secure Pleasure, to themselves onely, or specially",
+    "english": "That which taketh away the reputation of Love, is the being detected of private ends: as when the beliefe they require of others, conduceth or seemeth to conduce to the acquiring of Dominion, Riches, Dignity, or secure Pleasure, to themselves onely, or specially",
+    "chinese": "剥夺爱的声誉的是被发现有私利：当他们要求他人信仰的内容，导致或似乎导致他们自己独享统治、财富、尊严或安乐时。",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-14"
+  },
+  {
+    "original": "Nature hath made men so equall, in the faculties of body, and mind; as that though there bee found one man sometimes manifestly stronger in body, or of quicker mind then another; yet when all is reckoned together, the difference between man, and man, is not so considerable",
+    "english": "Nature hath made men so equall, in the faculties of body, and mind; as that though there bee found one man sometimes manifestly stronger in body, or of quicker mind then another; yet when all is reckoned together, the difference between man, and man, is not so considerable",
+    "chinese": "自然使人在身体和心智能力上大致平等，虽然有时有人体力更强或思维更快，但总体差异并不显著。",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-14"
+  },
+  {
+    "original": "Hereby it is manifest, that during the time men live without a common Power to keep them all in awe, they are in that condition which is called Warre; and such a warre, as is of every man, against every man",
+    "english": "Hereby it is manifest, that during the time men live without a common Power to keep them all in awe, they are in that condition which is called Warre; and such a warre, as is of every man, against every man",
+    "chinese": "由此显明，当人们生活在没有共同权力使其敬畏的状态时，他们处于所谓的战争状态，即人人相争的战争。",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-14"
+  },
+  {
+    "original": "The instinct of the woman often enables her not only to apprehend but to illustrate a truth for which she would be totally unable to give the adequate philosophic reasoning.",
+    "english": "The instinct of the woman often enables her not only to apprehend but to illustrate a truth for which she would be totally unable to give the adequate philosophic reasoning.",
+    "chinese": "女性的本能常常使她不仅能够领会，而且能够阐明一种她完全无法给出充分哲学推理的真理。",
+    "author": "John Stuart Mill",
+    "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
+    "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+    "translation_note": "中文为AI工作译文，未经独立译本校勘",
+    "note": "原文已在所列公开文本中逐字匹配；中文译文及哲学语境仍需人工校订。",
+    "verified": true,
+    "verification_method": "exact_match_to_retrieved_public_domain_text",
+    "verified_at": "2026-11-14"
   }
 ]

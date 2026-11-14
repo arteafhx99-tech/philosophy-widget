@@ -124,5 +124,59 @@
     "status": "needs_review",
     "reason": "Exact quotation not found in retrieved text",
     "discovered_at": "2026-11-13"
+  },
+  {
+    "original": "Lastly, to those points of Religion, which have been received from them that did such Miracles; those that are added by such, as approve not their Calling by some Miracle, obtain no greater beliefe, than what the Custome, and Lawes of the places, in which they be educated, have wrought into them",
+    "author": "Thomas Hobbes",
+    "source": "Leviathan",
+    "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-14"
+  },
+  {
+    "original": "We may sometimes know a general proposition in cases where we do not know a single instance of it.",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-14"
+  },
+  {
+    "original": "The knowledge of such general propositions only requires a knowledge of the relations of universals, and does not require any knowledge of instances of the universals in question.",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-14"
+  },
+  {
+    "original": "All our knowledge concerning physical objects is such that no actual instance can be given.",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-14"
+  },
+  {
+    "original": "Our immediate knowledge of truths may be called intuitive knowledge, and the truths so known may be called self-evident truths.",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-14"
+  },
+  {
+    "original": "Error can only arise when we regard the immediate object, i.e. the sense-datum, as the mark of some physical object.",
+    "author": "Bertrand Russell",
+    "source": "The Problems of Philosophy",
+    "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+    "status": "needs_review",
+    "reason": "Exact quotation not found in retrieved text",
+    "discovered_at": "2026-11-14"
   }
 ]
