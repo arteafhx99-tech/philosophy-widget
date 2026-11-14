@@ -1,15 +1,15 @@
 {
-  "original": "For no very good reason, three of these principles have been singled out by tradition under the name of 'Laws of Thought'. They are as follows: (1) _The law of identity_: 'Whatever is, is.' (2) _The law of contradiction_: 'Nothing can both be and not be.' (3) _The law of excluded middle_: 'Everything must either be or not be.'",
-  "english": "For no very good reason, three of these principles have been singled out by tradition under the name of 'Laws of Thought'. They are as follows: (1) _The law of identity_: 'Whatever is, is.' (2) _The law of contradiction_: 'Nothing can both be and not be.' (3) _The law of excluded middle_: 'Everything must either be or not be.'",
-  "chinese": "出于没有很好理由的传统，三条原则被称为‘思维定律’。它们是：(1)同一律：‘存在即存在。’(2)矛盾律：‘无物可同时存在与不存在。’(3)排中律：‘一切事物必为存在或不存在。’",
+  "original": "'anything implied by a true proposition is true', or 'whatever follows from a true proposition is true'.",
+  "english": "'anything implied by a true proposition is true', or 'whatever follows from a true proposition is true'.",
+  "chinese": "‘任何由真命题所蕴含的命题都为真’，或‘任何从真命题推导出的命题都为真’。",
   "author": "Bertrand Russell",
   "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
   "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "罗素在这段话中反思了传统逻辑中所谓“思维定律”的地位与合理性，指出将同一律、矛盾律和排中律三条原则视为不可动摇的思想基础，实际上并无充分理由。该观点反映出罗素对形式逻辑基础的批判性考察，强调这些“定律”并非自明的真理，而是在逻辑体系构建中被约定俗成的重要规则。这种态度提醒我们避免将逻辑原则神秘化，忽略其作为哲学和数学推理工具的历史与语境。误读可能出现在将这些定律简单地视为绝对真理或普遍适用的思维法则，而忽略罗素对它们背后假设和适用范围的审视。通过这一段话，罗素促使读者认识到逻辑定律的规范性与约定性，而非哲学上不可辩驳的实体主义断言。",
+  "note": "罗素在《哲学问题》中提出的“任何由真命题所蕴含的命题都为真”这一观点，反映了经典逻辑中的蕴含关系和真值保持性原则。这一命题强调逻辑推理的有效性，即从真实前提出发，通过有效的推理过程导出的结论理应保持真实性。这体现了形式逻辑对真理的严格约束，符合演绎推理的基本要求。然而，此表述也易引发误读，特别是如果忽视了推理的正确性条件，或将其误解为“任意推导均为真”，则可能导致谬误。此外，罗素的表述并未涵盖语境中的语义复杂性和语用因素，如含糊命题、意义变化等，因此在应用时需结合更丰富的逻辑工具加以分析。整体而言，该论断奠定了哲学中关于知识和真理辩证的重要基础，强调逻辑推理的核心地位。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
   "verified_at": "2026-11-09",
-  "updated_at": "2026-11-14T04:45:39.588792+08:00",
-  "slot": "2026-11-14-morning",
-  "note_generated_at": "2026-11-14T04:45:39.588792+08:00"
+  "updated_at": "2026-11-14T12:46:33.734172+08:00",
+  "slot": "2026-11-14-evening",
+  "note_generated_at": "2026-11-14T12:46:33.734172+08:00"
 }

@@ -48,5 +48,10 @@
     "slot": "2026-11-14-morning",
     "original": "For no very good reason, three of these principles have been singled out by tradition under the name of 'Laws of Thought'. They are as follows: (1) _The law of identity_: 'Whatever is, is.' (2) _The law of contradiction_: 'Nothing can both be and not be.' (3) _The law of excluded middle_: 'Everything must either be or not be.'",
     "author": "Bertrand Russell"
+  },
+  {
+    "slot": "2026-11-14-evening",
+    "original": "'anything implied by a true proposition is true', or 'whatever follows from a true proposition is true'.",
+    "author": "Bertrand Russell"
   }
 ]
