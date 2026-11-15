@@ -1,15 +1,15 @@
 {
-  "original": "For seeing all formed Religion, is founded at first, upon the faith which a multitude hath in some one person, whom they believe not only to be a wise man, and to labour to procure their happiness, but also to be a holy man, to whom God himselfe vouchsafeth to declare his will supernaturally;",
-  "english": "For seeing all formed Religion, is founded at first, upon the faith which a multitude hath in some one person, whom they believe not only to be a wise man, and to labour to procure their happiness, but also to be a holy man, to whom God himselfe vouchsafeth to declare his will supernaturally;",
-  "chinese": "因为所有成形的宗教最初都是建立在大众对某个人的信仰之上，他们相信此人不仅是一个智慧的人，努力为他们谋求幸福，而且是一个圣人，上帝亲自赐予他以超自然的方式宣示其旨意。",
+  "original": "Nature hath made men so equall, in the faculties of body, and mind; as that though there bee found one man sometimes manifestly stronger in body, or of quicker mind then another; yet when all is reckoned together, the difference between man, and man, is not so considerable",
+  "english": "Nature hath made men so equall, in the faculties of body, and mind; as that though there bee found one man sometimes manifestly stronger in body, or of quicker mind then another; yet when all is reckoned together, the difference between man, and man, is not so considerable",
+  "chinese": "自然使人在身体和心智能力上大致平等，虽然有时有人体力更强或思维更快，但总体差异并不显著。",
   "author": "Thomas Hobbes",
   "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
   "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "霍布斯在《利维坦》中这段论述，揭示了宗教起源的社会心理基础。他认为，成形的宗教并非仅凭教义或仪式，而是基于大众对某一领袖人物的共同信仰，这个人不仅被视为智慧且关心众人福祉，更被赋予了神圣身份，因此被认定为上帝意志的中介者。此观点反映出霍布斯对宗教权威来源的现实主义理解，强调宗教权力建立在信众的集体信任和对超自然权威的认可上，而非纯粹的客观真理。这有助于避免将宗教绝对化为天启真理，亦警示误读宗教为单纯的神秘经验或个人灵感，忽略其作为政治与社会秩序工具的作用。霍布斯试图通过这一分析，为现代国家权威提供哲学正当性，同时剖析宗教在维持社会稳定中的功能。",
+  "note": "霍布斯在《利维坦》中指出，人类在身体与心智能力上本质上是平等的，即使个体间存在力量或思维速度的差异，但总体差距并不大。这一论述反映了他的政治哲学前提：人类平等性导致了相互竞争和冲突的不可避免性，从而需要国家权威的强制力来维持秩序。此处的“平等”并非指绝对相同，而是说各自具备相似的致命能力，能够威胁他人，因此人人均潜在为威胁者。误读时容易将其解读为现代意义上的权利平等或能力均等，而忽视霍布斯关注的是生存竞争中力量的总体可比性，这为其社会契约论提供了基础，强调人的自然状态下的“人人与人人为敌”。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-13",
-  "updated_at": "2026-11-15T04:29:27.035562+08:00",
-  "slot": "2026-11-15-morning",
-  "note_generated_at": "2026-11-15T04:29:27.035562+08:00"
+  "verified_at": "2026-11-14",
+  "updated_at": "2026-11-15T12:50:04.903040+08:00",
+  "slot": "2026-11-15-evening",
+  "note_generated_at": "2026-11-15T12:50:04.903040+08:00"
 }
