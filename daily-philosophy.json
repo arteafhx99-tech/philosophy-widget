@@ -1,15 +1,11 @@
 {
-  "original": "That which taketh away the reputation of Wisedome, in him that formeth a Religion, or addeth to it when it is allready formed, is the enjoyning of a beliefe of contradictories",
-  "english": "That which taketh away the reputation of Wisedome, in him that formeth a Religion, or addeth to it when it is allready formed, is the enjoyning of a beliefe of contradictories",
-  "chinese": "剥夺智慧声誉的是在形成宗教或对已形成的宗教添加内容时，强制信仰矛盾的信条。",
-  "author": "Thomas Hobbes",
-  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
-  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
-  "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "霍布斯在此句中指出，破坏智慧声誉的行为，是在创立宗教或对既有宗教进行增补时，强制信徒接受内在自相矛盾的信条。这反映了霍布斯对理性与宗教权威关系的深刻关注。他强调理性的重要性，认为宗教教义若违背理性逻辑，无异于削弱智慧本身的威严，从而导致信仰的混乱和矛盾。此观点意在批判那些不顾逻辑一致性、强制要求信徒相信自相矛盾教义的宗教实践，揭示宗教理性与信仰的一种张力。对这段话的误读可能在于简化为对宗教全盘否定，而忽视霍布斯致力于保持宗教权威与理性和谐共存的立场。总体来看，这体现了霍布斯“社会契约”理论中理性协调信仰的重要思想脉络。",
-  "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-14",
-  "updated_at": "2026-11-16T04:31:12.074903+08:00",
-  "slot": "2026-11-16-morning",
-  "note_generated_at": "2026-11-16T04:31:12.074903+08:00"
+  "original": "Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit.",
+  "english": "Enlightenment is the human being’s emergence from his self-incurred minority.",
+  "chinese": "启蒙是人摆脱其自我招致的未成年状态。",
+  "author": "Immanuel Kant",
+  "source": "Beantwortung der Frage: Was ist Aufklärung? (1784), opening; AA VIII, 35",
+  "note": "康德在《什么是启蒙？》一文开篇提出，启蒙即是人类摆脱自身导致的“未成年状态”（Unmündigkeit）。这里的“未成年”并非指生理意义上的年龄，而是指缺乏独立理性判断和自主思考的精神状态。康德强调，未成年是“自我招致”的，意味着这种依赖和无知是人们自身懒惰或恐惧导致的结果，而非外在强制。因此，启蒙包含个体勇于使用自己的理性，摆脱权威依赖，追求知识和自由。在当时的思想语境下，康德呼吁人们勇于理性批判，推动社会进步。误读此句常在于将“未成年”字面化，忽视理性自主的哲学内核，而淡化启蒙作为自我觉醒和自我负责任的深刻含义。",
+  "updated_at": "2026-11-16T13:28:01.518755+08:00",
+  "slot": "2026-11-16-evening",
+  "note_generated_at": "2026-11-16T13:28:01.518755+08:00"
 }
