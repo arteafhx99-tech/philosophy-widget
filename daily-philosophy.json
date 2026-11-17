@@ -1,15 +1,15 @@
 {
-  "original": "It must be admitted, for the reasons already stated, that logical principles are known to us, and cannot be themselves proved by experience, since all proof presupposes them.",
-  "english": "It must be admitted, for the reasons already stated, that logical principles are known to us, and cannot be themselves proved by experience, since all proof presupposes them.",
-  "chinese": "必须承认，基于前述理由，逻辑原则为我们所知，且不能由经验证明，因为所有证明都预设了它们。",
+  "original": "The relation of resemblance, therefore, must be a true universal.",
+  "english": "The relation of resemblance, therefore, must be a true universal.",
+  "chinese": "因此，相似关系必须是真正的普遍性。",
   "author": "Bertrand Russell",
   "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
   "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "罗素在此明确指出逻辑原则具有先验性质，强调它们既为我们所知，又无法通过经验加以证明，因所有经验性证明本身必依赖逻辑规则才能成立。这一观点体现了他对逻辑基础性的认知，即逻辑原则不是经验事实，而是认识任何事实的先决条件。鲁迅的阐释避免了将逻辑原则视为经验知识或可经验证伪的误解，凸显了逻辑作为认识工具的无可替代地位。然而，现代哲学和逻辑学中也有从形式主义、语用学等角度对逻辑原则有效性提出质疑的趋势，故不宜将罗素此言简单理解为逻辑原则的绝对不变性，而应结合其时代背景和整体哲学体系予以权衡。",
+  "note": "罗素在《哲学问题》中提出“相似关系必须是真正的普遍性”的观点，反映了他对普遍性问题的深刻思考。在哲学史上，普遍性的性质一直是形而上学和认识论的核心议题。罗素认为，相似关系并非仅是具体事物间的偶然联系，而具有独立于个别事物之外的客观存在性质，因此是真正的普遍性。这一观点试图解决传统唯名论对普遍概念的否定，将关系视为普遍性的存在，体现了逻辑实证主义中通过逻辑分析澄清哲学问题的思路。然而，读者若简化理解为“相似关系即普遍性”的字面意义，可能忽视罗素对关系普遍性的特定逻辑分析条件，从而误读其为形而上学上的实体论主张。实际上，罗素的论述更多是在逻辑与语言层面探讨普遍性的存在方式，避免了实质主义普遍性所面临的难题。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-09",
-  "updated_at": "2026-11-17T18:57:10.453413+08:00",
-  "slot": "2026-11-17-evening",
-  "note_generated_at": "2026-11-17T18:57:10.453413+08:00"
+  "verified_at": "2026-11-12",
+  "updated_at": "2026-11-18T04:46:04.429242+08:00",
+  "slot": "2026-11-18-morning",
+  "note_generated_at": "2026-11-18T04:46:04.429242+08:00"
 }
