@@ -1,15 +1,15 @@
 {
-  "original": "That which taketh away the reputation of Love, is the being detected of private ends: as when the beliefe they require of others, conduceth or seemeth to conduce to the acquiring of Dominion, Riches, Dignity, or secure Pleasure, to themselves onely, or specially",
-  "english": "That which taketh away the reputation of Love, is the being detected of private ends: as when the beliefe they require of others, conduceth or seemeth to conduce to the acquiring of Dominion, Riches, Dignity, or secure Pleasure, to themselves onely, or specially",
-  "chinese": "剥夺爱的声誉的是被发现有私利：当他们要求他人信仰的内容，导致或似乎导致他们自己独享统治、财富、尊严或安乐时。",
-  "author": "Thomas Hobbes",
-  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
-  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+  "original": "It must be admitted, for the reasons already stated, that logical principles are known to us, and cannot be themselves proved by experience, since all proof presupposes them.",
+  "english": "It must be admitted, for the reasons already stated, that logical principles are known to us, and cannot be themselves proved by experience, since all proof presupposes them.",
+  "chinese": "必须承认，基于前述理由，逻辑原则为我们所知，且不能由经验证明，因为所有证明都预设了它们。",
+  "author": "Bertrand Russell",
+  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "霍布斯在《利维坦》中这段话揭示了爱的社会与政治意义，特别强调了爱的纯粹性与私利的对立。他认为，一旦“爱”被发现带有隐藏的私利，如追求统治权、财富或尊严，便会失去其应有的声誉和诚信。这反映出霍布斯对人性中利己动机的深刻洞察，同时也体现了他对社会契约中信任基础的重要担忧。\n\n在思想语境中，这段话强调了“信仰”和“爱”的公共性和无私性，暗示政治权威的合法性依赖于真诚的信任，而非操控或利用他人的感情来谋取个人利益。误读此处，容易将“爱”简单理解为私人情感，而忽视了霍布斯所指的是政治与社会结构中维护秩序所需的相互承诺和信任机制。总体而言，此论述提醒我们检视权力与感情背后的动机，警惕公共利益被私利所掩盖。",
+  "note": "罗素在此论述中强调逻辑原则作为认识的先验条件，其认识不依赖于经验，因经验本身必须建立在逻辑原则之上才能实现有效的证明。这一观点体现了逻辑作为认识论基础的地位，意在纠正经验主义简单将逻辑视为经验产物的误解。此处的思想语境是早期分析哲学对认识基础的探讨，试图澄清经验与逻辑之间的关系，体现了对理性主义某些方面的认同。然而，若忽视逻辑原则的历史发展和可能的经验基础，易导致逻辑原则的绝对先验性被过度强调，从而忽略逻辑形式与实际认知过程的复杂互动。正确理解应在肯定逻辑原则无经验证明可能性的同时，关注其作为认识工具的应用前提和限制。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-14",
-  "updated_at": "2026-11-17T04:42:48.780305+08:00",
-  "slot": "2026-11-17-morning",
-  "note_generated_at": "2026-11-17T04:42:48.780305+08:00"
+  "verified_at": "2026-11-09",
+  "updated_at": "2026-11-17T12:54:21.548404+08:00",
+  "slot": "2026-11-17-evening",
+  "note_generated_at": "2026-11-17T12:54:21.548404+08:00"
 }
