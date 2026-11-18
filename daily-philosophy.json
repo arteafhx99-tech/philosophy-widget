@@ -1,15 +1,15 @@
 {
-  "original": "Thus all truths involve universals, and all knowledge of truths involves acquaintance with universals.",
-  "english": "Thus all truths involve universals, and all knowledge of truths involves acquaintance with universals.",
-  "chinese": "因此，所有真理都涉及普遍性，所有对真理的认识都涉及对普遍性的认识。",
-  "author": "Bertrand Russell",
-  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
-  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+  "original": "trade is a social act. Whoever undertakes to sell any description of goods to the public, does what affects the interest of other persons, and of society in general",
+  "english": "trade is a social act. Whoever undertakes to sell any description of goods to the public, does what affects the interest of other persons, and of society in general",
+  "chinese": "贸易是一种社会行为。无论谁承担向公众出售任何种类的商品，都影响其他人的利益以及整个社会的利益",
+  "author": "John Stuart Mill",
+  "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
+  "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "罗素在《哲学问题》中指出“所有真理都涉及普遍性，所有对真理的认识都涉及对普遍性的认识”，体现了他对普遍性（universals）哲学问题的关注。普遍性问题是形而上学和认识论中的一个核心议题，涉及抽象概念、属性或类型的存在以及它们如何与具体事物相关联。罗素强调，真理不仅仅关乎个别事实，而是离不开普遍性质或关系的参与，这反映了他对知识结构的分析立场和逻辑实证主义的倾向。读者若将此理解为普遍性是独立于具体事物存在的实体，则可能误读了罗素的观点，因为他倾向于将普遍性视为一种逻辑上的关系，而非独立的形而上实体。故此语境提醒我们真理与知识的普遍性联系，旨在阐明认识的本质及其逻辑基础，而非本体论上的普遍实体论争。",
+  "note": "约翰·斯图亚特·密尔在《论自由》中所说“贸易是一种社会行为”，强调了个体经济活动并非孤立存在，而是嵌入在复杂的社会网络中。此言提醒我们，交易行为不仅仅关乎个人利益最大化，更涉及对他人及社会整体福祉的影响。这一观点反映了密尔对自由与社会责任关系的深刻洞察，避免了简单个人主义或利己主义的误读。若将贸易纯粹视为个人行为而忽略其社会后果，可能导致对市场监管与社会正义的忽视，从而损害公共利益。密尔的话强调了自由经济实践必须辅以适当的社会考量，确保个人行为在促进整体社会福祉的前提下进行。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-12",
-  "updated_at": "2026-11-18T18:57:53.904976+08:00",
-  "slot": "2026-11-18-evening",
-  "note_generated_at": "2026-11-18T18:57:53.904976+08:00"
+  "verified_at": "2026-11-10",
+  "updated_at": "2026-11-19T04:46:36.135814+08:00",
+  "slot": "2026-11-19-morning",
+  "note_generated_at": "2026-11-19T04:46:36.135814+08:00"
 }
