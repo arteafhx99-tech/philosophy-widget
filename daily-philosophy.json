@@ -1,15 +1,15 @@
 {
-  "original": "The relation of resemblance, therefore, must be a true universal.",
-  "english": "The relation of resemblance, therefore, must be a true universal.",
-  "chinese": "因此，相似关系必须是真正的普遍性。",
+  "original": "Thus all truths involve universals, and all knowledge of truths involves acquaintance with universals.",
+  "english": "Thus all truths involve universals, and all knowledge of truths involves acquaintance with universals.",
+  "chinese": "因此，所有真理都涉及普遍性，所有对真理的认识都涉及对普遍性的认识。",
   "author": "Bertrand Russell",
   "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
   "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "罗素在《哲学问题》中提出“相似关系必须是真正的普遍性”的观点，反映了他对普遍性问题的深刻思考。在哲学史上，普遍性的性质一直是形而上学和认识论的核心议题。罗素认为，相似关系并非仅是具体事物间的偶然联系，而具有独立于个别事物之外的客观存在性质，因此是真正的普遍性。这一观点试图解决传统唯名论对普遍概念的否定，将关系视为普遍性的存在，体现了逻辑实证主义中通过逻辑分析澄清哲学问题的思路。然而，读者若简化理解为“相似关系即普遍性”的字面意义，可能忽视罗素对关系普遍性的特定逻辑分析条件，从而误读其为形而上学上的实体论主张。实际上，罗素的论述更多是在逻辑与语言层面探讨普遍性的存在方式，避免了实质主义普遍性所面临的难题。",
+  "note": "罗素在《哲学问题》中指出“所有真理都涉及普遍性，所有对真理的认识都涉及对普遍性的认识”，这反映了他对普遍性（universals）概念的重要性认识。普遍性在哲学中指那些超越个别事物、可广泛应用的性质或概念，如“红色”或“圆形”。罗素认为，真理不仅仅是关于具体事物的断言，而是涉及这些普遍性属性的把握。此观点置于分析哲学对逻辑与语言的重视背景下，强调认知活动必须理解普遍概念才能把握真理，回应了经验主义对普遍性存在的疑问。误读可能发生在将此命题理解为“所有知识都只能是抽象的”，忽视了罗素对实证经验与理性分析的结合探讨。实际意义在于指出哲学知识的基础是对普遍属性的认知，而非仅停留在个别事实的感知。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
   "verified_at": "2026-11-12",
-  "updated_at": "2026-11-18T04:46:04.429242+08:00",
-  "slot": "2026-11-18-morning",
-  "note_generated_at": "2026-11-18T04:46:04.429242+08:00"
+  "updated_at": "2026-11-18T12:55:47.555785+08:00",
+  "slot": "2026-11-18-evening",
+  "note_generated_at": "2026-11-18T12:55:47.555785+08:00"
 }
