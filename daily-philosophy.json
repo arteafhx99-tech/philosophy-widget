@@ -1,15 +1,15 @@
 {
-  "original": "trade is a social act. Whoever undertakes to sell any description of goods to the public, does what affects the interest of other persons, and of society in general",
-  "english": "trade is a social act. Whoever undertakes to sell any description of goods to the public, does what affects the interest of other persons, and of society in general",
-  "chinese": "贸易是一种社会行为。无论谁承担向公众出售任何种类的商品，都影响其他人的利益以及整个社会的利益",
-  "author": "John Stuart Mill",
-  "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
-  "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+  "original": "Thus the statement 'two and two are four' deals exclusively with universals, and therefore may be known by anybody who is acquainted with the universals concerned and can perceive the relation between them which the statement asserts.",
+  "english": "Thus the statement 'two and two are four' deals exclusively with universals, and therefore may be known by anybody who is acquainted with the universals concerned and can perceive the relation between them which the statement asserts.",
+  "chinese": "因此，“二加二等于四”的陈述专门处理普遍性，因此任何熟悉相关普遍性并能感知其关系的人都能知道该命题。",
+  "author": "Bertrand Russell",
+  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "约翰·斯图亚特·密尔在《论自由》中所说“贸易是一种社会行为”，强调了个体经济活动并非孤立存在，而是嵌入在复杂的社会网络中。此言提醒我们，交易行为不仅仅关乎个人利益最大化，更涉及对他人及社会整体福祉的影响。这一观点反映了密尔对自由与社会责任关系的深刻洞察，避免了简单个人主义或利己主义的误读。若将贸易纯粹视为个人行为而忽略其社会后果，可能导致对市场监管与社会正义的忽视，从而损害公共利益。密尔的话强调了自由经济实践必须辅以适当的社会考量，确保个人行为在促进整体社会福祉的前提下进行。",
+  "note": "罗素在此强调数学命题如“二加二等于四”处理的是普遍性（universals），即超越具体个别事物的抽象实体。这表明数学知识的普遍性和客观性不依赖于特殊经验，而是基于对相关普遍概念及其内在关系的认识。罗素的观点体现了他对形式逻辑和普遍实体的重视，试图证明数学真理是理性认识的典范，任何具有相应理性能力的人都能把握这些真理。而误读可能在于将“普遍性”误解为仅凭语义或主观信念即能认识，而忽视了对普遍之间关系的感知，这正是数学陈述成立的关键。罗素的立场在哲学上反映了他对知识客观性的追求及对经验主义的批判。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-10",
-  "updated_at": "2026-11-19T04:46:36.135814+08:00",
-  "slot": "2026-11-19-morning",
-  "note_generated_at": "2026-11-19T04:46:36.135814+08:00"
+  "verified_at": "2026-11-13",
+  "updated_at": "2026-11-19T12:58:33.704240+08:00",
+  "slot": "2026-11-19-evening",
+  "note_generated_at": "2026-11-19T12:58:33.704240+08:00"
 }
