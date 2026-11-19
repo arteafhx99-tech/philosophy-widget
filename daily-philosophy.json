@@ -1,15 +1,15 @@
 {
-  "original": "Thus the statement 'two and two are four' deals exclusively with universals, and therefore may be known by anybody who is acquainted with the universals concerned and can perceive the relation between them which the statement asserts.",
-  "english": "Thus the statement 'two and two are four' deals exclusively with universals, and therefore may be known by anybody who is acquainted with the universals concerned and can perceive the relation between them which the statement asserts.",
-  "chinese": "因此，“二加二等于四”的陈述专门处理普遍性，因此任何熟悉相关普遍性并能感知其关系的人都能知道该命题。",
-  "author": "Bertrand Russell",
-  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
-  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+  "original": "Honourable is whatsoever possession, action, or quality, is an argument and signe of Power.",
+  "english": "Honourable is whatsoever possession, action, or quality, is an argument and signe of Power.",
+  "chinese": "凡是作为权力的论据和标志的所有物、行动或品质都是可敬的。",
+  "author": "Thomas Hobbes",
+  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "罗素在此论述中强调数学命题如“二加二等于四”所涉及的对象是“普遍性”（universals），即那些不依赖于个别具体事物的抽象实体。这里，他指出理解这种命题的关键在于认识相关的普遍概念，并洞察这些概念间的关系。该观点反映了逻辑实证主义和分析哲学对普遍对象的重视，认为通过理性洞察即可获得必然真理。这一表述可能被误解为数学知识具有完全客观和普遍可知性，而忽视了不同哲学传统中对普遍性本体论地位的争议，例如唯名论对普遍性的否定。此外，罗素强调认知数学命题依赖于“感知”其关系，涉及认识论问题，提示数学认识并非单纯机械记忆，而是对抽象关系的把握。整体上，这段话揭示了罗素对数学真理普遍性与可知性的乐观立场，以及他对普遍性的哲学理解。",
+  "note": "霍布斯这段话反映了其权力中心主义的哲学视角。在《利维坦》中，霍布斯强调权力是人际关系的核心，本句指出“凡是作为权力的论据和标志的所有物、行动或品质都是可敬的”，意在说明“尊荣”源于权力的存在和表现。这里，“可敬”不再是传统意义上的道德或美德评价，而是与权力的有效性和影响力直接相关。这种观点置于霍布斯对自然状态中人类竞争与冲突的认识中，尊荣成为维系社会秩序的外在符号。然而，若将“可敬”简单理解为普遍的道德赞誉，便会误读霍布斯权力观的现实主义逻辑，忽视其对社会结构中权力必然性的强调。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-13",
-  "updated_at": "2026-11-19T18:57:00.984423+08:00",
-  "slot": "2026-11-19-evening",
-  "note_generated_at": "2026-11-19T18:57:00.984423+08:00"
+  "verified_at": "2026-11-10",
+  "updated_at": "2026-11-20T04:46:21.343451+08:00",
+  "slot": "2026-11-20-morning",
+  "note_generated_at": "2026-11-20T04:46:21.343451+08:00"
 }
