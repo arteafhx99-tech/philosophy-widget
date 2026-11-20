@@ -1,15 +1,15 @@
 {
-  "original": "Hence we must admit that the relation, like the terms it relates, is not dependent upon thought, but belongs to the independent world which thought apprehends but does not create.",
-  "english": "Hence we must admit that the relation, like the terms it relates, is not dependent upon thought, but belongs to the independent world which thought apprehends but does not create.",
-  "chinese": "因此，我们必须承认关系，像它所关联的项一样，不依赖于思想，而属于思想所理解但不创造的独立世界。",
-  "author": "Bertrand Russell",
-  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
-  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+  "original": "Desire of Knowledge, and Arts of Peace, enclineth men to obey a common Power: For such Desire, containeth a desire of leasure; and consequently protection from some other Power than their own.",
+  "english": "Desire of Knowledge, and Arts of Peace, enclineth men to obey a common Power: For such Desire, containeth a desire of leasure; and consequently protection from some other Power than their own.",
+  "chinese": "对知识和和平艺术的渴望使人们倾向于服从共同的权力：因为这种渴望包含对闲暇的渴望，因此希望得到除自身以外的某种权力的保护。",
+  "author": "Thomas Hobbes",
+  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "罗素在《哲学问题》中提出，关系不仅仅是思维的产物，而是独立于思维存在的实体。这一观点置于其逻辑实证主义和分析哲学的语境中，强调哲学探讨的对象是一个客观而独立的现实。罗素反对唯心主义或观念论将关系仅理解为心灵的构造，认为关系像事物本身一样，具有客观存在。此处“关系”不仅仅是主观联想，而是独立于我们的认知而存在的现实成分。因此，思想的功能是认识和把握世界，而非创造世界。然而，若简单理解为思想与世界完全割裂，可能忽视了语言和认知结构对我们认识关系的中介作用，从而可能导致对罗素立场的误读。罗素强调的是关系的客观性，而非否定认识主体对知识形成的必然参与。",
+  "note": "霍布斯在《利维坦》中提出，对知识和和平艺术的渴望导致人们愿意服从共同权力，这一观点反映了他对人类社会契约起源的理解。这里“知识与和平艺术”的欲望，不仅指向对精神富足和文化发展的追求，更根植于对“闲暇”的需求——闲暇本身则依赖于安全保障，这使得人们自愿让渡部分自由，寻求强权保护以保障生活的稳定与安宁。此处思想语境深植于霍布斯所描绘的“自然状态”混乱无序，人们为避免“人人对人人的战争”而建立主权者的逻辑。误读可能在于将“服从共同权力”简单解读为对权威的盲目屈从，而忽视了这一服从背后是基于理性计算和对和平、自由时间的合理追求。霍布斯强调权力的合法性根源于保障人的基本欲望，而非绝对神授或传统习俗。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-12",
-  "updated_at": "2026-11-20T18:56:55.611590+08:00",
-  "slot": "2026-11-20-evening",
-  "note_generated_at": "2026-11-20T18:56:55.611590+08:00"
+  "verified_at": "2026-11-11",
+  "updated_at": "2026-11-21T04:43:07.865548+08:00",
+  "slot": "2026-11-21-morning",
+  "note_generated_at": "2026-11-21T04:43:07.865548+08:00"
 }
