@@ -1,15 +1,15 @@
 {
-  "original": "Honourable is whatsoever possession, action, or quality, is an argument and signe of Power.",
-  "english": "Honourable is whatsoever possession, action, or quality, is an argument and signe of Power.",
-  "chinese": "凡是作为权力的论据和标志的所有物、行动或品质都是可敬的。",
-  "author": "Thomas Hobbes",
-  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
-  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+  "original": "Hence we must admit that the relation, like the terms it relates, is not dependent upon thought, but belongs to the independent world which thought apprehends but does not create.",
+  "english": "Hence we must admit that the relation, like the terms it relates, is not dependent upon thought, but belongs to the independent world which thought apprehends but does not create.",
+  "chinese": "因此，我们必须承认关系，像它所关联的项一样，不依赖于思想，而属于思想所理解但不创造的独立世界。",
+  "author": "Bertrand Russell",
+  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "霍布斯这段话反映了其权力中心主义的哲学视角。在《利维坦》中，霍布斯强调权力是人际关系的核心，本句指出“凡是作为权力的论据和标志的所有物、行动或品质都是可敬的”，意在说明“尊荣”源于权力的存在和表现。这里，“可敬”不再是传统意义上的道德或美德评价，而是与权力的有效性和影响力直接相关。这种观点置于霍布斯对自然状态中人类竞争与冲突的认识中，尊荣成为维系社会秩序的外在符号。然而，若将“可敬”简单理解为普遍的道德赞誉，便会误读霍布斯权力观的现实主义逻辑，忽视其对社会结构中权力必然性的强调。",
+  "note": "这段话出自罗素的《哲学问题》，体现了其关于客观实在与思想关系的核心观点。罗素强调，关系不仅仅是思维中的构造或概念工具，而是存在于独立于思想之外的客观世界中，思想的作用仅仅是“理解”而非“创造”这种关系。这一立场反映了其实在论的哲学立场，主张世界及其结构具有独立性，思想对其的认识具有发现性而非发明性。误读往往将此解读为彻底的唯物主义或拒绝任何主观因素，但实际上罗素认可思想在认识过程中的重要角色，只是不赋予其对现实结构的创造权能。此段话为后来分析语言与逻辑哲学对事实关系的讨论奠定了基础。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-10",
-  "updated_at": "2026-11-20T04:46:21.343451+08:00",
-  "slot": "2026-11-20-morning",
-  "note_generated_at": "2026-11-20T04:46:21.343451+08:00"
+  "verified_at": "2026-11-12",
+  "updated_at": "2026-11-20T12:55:16.417423+08:00",
+  "slot": "2026-11-20-evening",
+  "note_generated_at": "2026-11-20T12:55:16.417423+08:00"
 }
