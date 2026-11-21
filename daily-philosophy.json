@@ -1,15 +1,15 @@
 {
-  "original": "Desire of Knowledge, and Arts of Peace, enclineth men to obey a common Power: For such Desire, containeth a desire of leasure; and consequently protection from some other Power than their own.",
-  "english": "Desire of Knowledge, and Arts of Peace, enclineth men to obey a common Power: For such Desire, containeth a desire of leasure; and consequently protection from some other Power than their own.",
-  "chinese": "对知识和和平艺术的渴望使人们倾向于服从共同的权力：因为这种渴望包含对闲暇的渴望，因此希望得到除自身以外的某种权力的保护。",
-  "author": "Thomas Hobbes",
-  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
-  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+  "original": "It is quite unnecessary to know all the couples in the world: if it were necessary, obviously we could never understand the proposition, since the couples are infinitely numerous and therefore cannot all be known to us.",
+  "english": "It is quite unnecessary to know all the couples in the world: if it were necessary, obviously we could never understand the proposition, since the couples are infinitely numerous and therefore cannot all be known to us.",
+  "chinese": "完全没有必要知道世界上所有的配偶：如果必须知道，显然我们永远无法理解该命题，因为配偶数量无限，无法全部被我们知晓。",
+  "author": "Bertrand Russell",
+  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "霍布斯在《利维坦》中提出，对知识和和平艺术的渴望导致人们愿意服从共同权力，这一观点反映了他对人类社会契约起源的理解。这里“知识与和平艺术”的欲望，不仅指向对精神富足和文化发展的追求，更根植于对“闲暇”的需求——闲暇本身则依赖于安全保障，这使得人们自愿让渡部分自由，寻求强权保护以保障生活的稳定与安宁。此处思想语境深植于霍布斯所描绘的“自然状态”混乱无序，人们为避免“人人对人人的战争”而建立主权者的逻辑。误读可能在于将“服从共同权力”简单解读为对权威的盲目屈从，而忽视了这一服从背后是基于理性计算和对和平、自由时间的合理追求。霍布斯强调权力的合法性根源于保障人的基本欲望，而非绝对神授或传统习俗。",
+  "note": "罗素在此论述中强调了认识过程中的有限性和抽象概念的必要性。他指出，理解某一命题并不要求我们对现实中所有相关个体进行穷尽式的了解——这里以“配偶”的无限性为例，暗示实际对象的数量可能是不可穷尽的，因而若要求完全知晓将导致认识的停滞或不可能。此处反映出罗素对知识的逻辑分析立场，即哲学探讨应关心命题的逻辑结构和普遍性，而非单纯的经验穷尽。这警示读者勿陷于经验主义的误区，误以为只有全面经验才能理解命题。同时，语境中“配偶”作为例证，说明罗素对概念的抽象与形式意义的关注。误读者可能忽略其逻辑和方法论意涵，简单认为罗素否认对具体现实的考察价值，实则他是在强调逻辑分析的必要前提和认知的有限边界。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-11",
-  "updated_at": "2026-11-21T04:43:07.865548+08:00",
-  "slot": "2026-11-21-morning",
-  "note_generated_at": "2026-11-21T04:43:07.865548+08:00"
+  "verified_at": "2026-11-13",
+  "updated_at": "2026-11-21T12:51:03.564737+08:00",
+  "slot": "2026-11-21-evening",
+  "note_generated_at": "2026-11-21T12:51:03.564737+08:00"
 }
