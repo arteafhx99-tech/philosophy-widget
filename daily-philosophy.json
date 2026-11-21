@@ -1,15 +1,15 @@
 {
-  "original": "It is quite unnecessary to know all the couples in the world: if it were necessary, obviously we could never understand the proposition, since the couples are infinitely numerous and therefore cannot all be known to us.",
-  "english": "It is quite unnecessary to know all the couples in the world: if it were necessary, obviously we could never understand the proposition, since the couples are infinitely numerous and therefore cannot all be known to us.",
-  "chinese": "完全没有必要知道世界上所有的配偶：如果必须知道，显然我们永远无法理解该命题，因为配偶数量无限，无法全部被我们知晓。",
-  "author": "Bertrand Russell",
-  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
-  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+  "original": "Competition of Riches, Honour, command, or other power, enclineth to Contention, Enmity, and War: because the way of one Competitor, to the attaining of his desire, is to kill, subdue, supplant, or repell the other.",
+  "english": "Competition of Riches, Honour, command, or other power, enclineth to Contention, Enmity, and War: because the way of one Competitor, to the attaining of his desire, is to kill, subdue, supplant, or repell the other.",
+  "chinese": "财富、荣誉、指挥或其他权力的竞争倾向于争斗、敌意和战争：因为一个竞争者达到其欲望的方式是杀死、征服、取代或击退另一个。",
+  "author": "Thomas Hobbes",
+  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "此段引文出自罗素的《哲学问题》，反映了他对知识和理解范围的深刻思考。罗素指出，某些命题的理解不依赖于穷尽全面的经验观察，尤其是在涉及无限或庞大集合的情况下。此处以“世界上所有配偶”为例，强调我们理解命题的能力并非基于对所有具体实例的完全掌握，而是通过逻辑推理和概念分析来实现。其思想语境中包含了对经验主义和逻辑分析哲学的调和，即知识不仅是经验的累积，更是理性思考的结果。一种可能的误读是认为罗素否定经验重要性，实际上他是在强调理性对无穷事物认知的必要性，这与经验主义的片面依赖形成补充。此论述提醒我们，哲学探讨往往超越直观经验，依赖于对概念及其逻辑关系的严谨理解。",
+  "note": "这段话出自霍布斯的《利维坦》，反映了其政治哲学中关于人性与社会冲突的基本观点。霍布斯认为，人类天生具有争夺财富、荣誉与权力的倾向，这种竞争不可避免地引发争斗、敌意乃至战争。理由在于，为了实现个人欲望，一个竞争者往往必须压制甚至消灭其他竞争者，从而导致社会的不稳定和暴力。此处的思想语境是霍布斯针对“自然状态”的描述，即没有政治权威约束时，人类处于“人人相争”的状态。误读可能包括将霍布斯的表述理解为对人性的绝对否定，忽略了其阐述的事实状况和其建立强大中央权威以维持和平的政治主张。霍布斯并非主张暴力为合理行为，而是强调这种竞争的危险性，进而说明强权统治的必要性。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-13",
-  "updated_at": "2026-11-21T18:45:03.347421+08:00",
-  "slot": "2026-11-21-evening",
-  "note_generated_at": "2026-11-21T18:45:03.347421+08:00"
+  "verified_at": "2026-11-11",
+  "updated_at": "2026-11-22T04:33:57.189178+08:00",
+  "slot": "2026-11-22-morning",
+  "note_generated_at": "2026-11-22T04:33:57.189178+08:00"
 }
