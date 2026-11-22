@@ -1,15 +1,15 @@
 {
-  "original": "Hereby it is manifest, that during the time men live without a common Power to keep them all in awe, they are in that condition which is called Warre; and such a warre, as is of every man, against every man",
-  "english": "Hereby it is manifest, that during the time men live without a common Power to keep them all in awe, they are in that condition which is called Warre; and such a warre, as is of every man, against every man",
-  "chinese": "由此显明，当人们生活在没有共同权力使其敬畏的状态时，他们处于所谓的战争状态，即人人相争的战争。",
-  "author": "Thomas Hobbes",
-  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
-  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+  "original": "liberty consists in doing what one desires, and he does not desire to fall into the river",
+  "english": "liberty consists in doing what one desires, and he does not desire to fall into the river",
+  "chinese": "自由就是做自己想做的事，而他并不想落入河中",
+  "author": "John Stuart Mill",
+  "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
+  "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "霍布斯在《利维坦》中提出的“人人相争”的战争状态，反映了其关于自然状态和社会契约的核心思想。在没有一个共同且具有足够威慑力的权威存在时，人类处于无序而危险的自然状态，缺乏安全保障，所有人彼此为敌，生活充满不确定和恐惧。这一论断旨在说明国家权力的必要性，以实现社会秩序和和平。可能的误读在于将“人人相争”简单理解为无时无刻的暴力冲突，而忽略霍布斯是对无政府状态的理论描述，强调权威作用的正当性。霍布斯此处揭示了政治权威的合理性基础，反对无政府状态带来的混乱，从而为现代政治哲学中的国家主权理论奠定了重要基础。",
+  "note": "这段论述体现了约翰·斯图亚特·密尔关于自由的基本观念，即自由是按照自身意愿行动的能力。密尔强调，自由不是任意行动，而是顺应合理的愿望和理性选择。在“他不想落入河中”的例子中，彰显了自由的自我保护性质，即个体的愿望通常指向自身的安全和幸福，从而限制了那些可能自我伤害的行为。若忽视这一层含义，可能将自由简单等同于无约束的随心所欲，导致对密尔自由观念的误读。实际上，密尔强调个人自由应在不损害他人的前提下行使，故此片段可视为自由的动力源泉和合理界限的体现。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-14",
-  "updated_at": "2026-11-22T18:43:53.003011+08:00",
-  "slot": "2026-11-22-evening",
-  "note_generated_at": "2026-11-22T18:43:53.003011+08:00"
+  "verified_at": "2026-11-10",
+  "updated_at": "2026-11-23T04:37:42.556604+08:00",
+  "slot": "2026-11-23-morning",
+  "note_generated_at": "2026-11-23T04:37:42.556604+08:00"
 }
