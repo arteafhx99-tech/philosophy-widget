@@ -1,15 +1,15 @@
 {
-  "original": "Desire of Ease, and sensuall Delight, disposeth men to obey a common Power: because by such Desires, a man doth abandon the protection might be hoped for from his own Industry, and labour.",
-  "english": "Desire of Ease, and sensuall Delight, disposeth men to obey a common Power: because by such Desires, a man doth abandon the protection might be hoped for from his own Industry, and labour.",
-  "chinese": "对安逸和感官享乐的渴望使人们服从共同的权力：因为通过这种欲望，人们放弃了对自身努力和劳动所能期望的保护。",
+  "original": "For when a man has weighed things as long as the time permits, and resolves not, the difference of weight is but little; and therefore if he resolve not, he overvalues little things, which is Pusillanimity.",
+  "english": "For when a man has weighed things as long as the time permits, and resolves not, the difference of weight is but little; and therefore if he resolve not, he overvalues little things, which is Pusillanimity.",
+  "chinese": "当一个人尽可能长时间权衡事物却仍无法决定时，差别其实很小；因此若他不决定，就是过分重视小事，这就是怯懦。",
   "author": "Thomas Hobbes",
   "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
   "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "霍布斯在《利维坦》中指出，人类因追求安逸与感官快乐，倾向于服从共同权力。这种欲望使个人放弃依赖自身劳动成果所带来的保护，转而寻求强有力的公共权威保障安全与秩序。此观点反映出霍布斯对人性本能的理解，即人类为避免自然状态下的“人人相斗”，愿意牺牲部分自由，换取社会稳定与和平。误读之处可能在于忽视霍布斯强调的“服从”是为了获得更大安全的理性选择，而非单纯的奴役或依赖感官欲望。此外，此句也提醒我们，社会契约的形成并非基于理想主义，而是源于现实中对自身努力和成果的无力感，以及对安定生活的根本需求。",
+  "note": "霍布斯在《利维坦》中论述决断的心理机制，强调理性权衡后若迟迟难以抉择，往往是因为夸大了细微差别，从而陷入怯懦（pusillanimity）。这一观点植根于霍布斯对人类理性的机械理解：理性计算权衡各种选项的利弊，若在合理时间内依然无法决断，说明区分度微小，若仍犹豫不决，则是情感上的怯懦而非理性不足。此处“不决定”并非理性的深思熟虑，而是过度关注细节带来的不必要焦虑。误读时常将此理解为否定谨慎或延迟决策的合理性，忽视了霍布斯意在说明决断不可避免且理性条件下应迅速完成。此论述反映了霍布斯政治哲学中对理性决断与行动效率的重视，旨在促使个体克服优柔寡断，以维护社会秩序和自我保障。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-11",
-  "updated_at": "2026-11-23T19:02:03.868478+08:00",
-  "slot": "2026-11-23-evening",
-  "note_generated_at": "2026-11-23T19:02:03.868478+08:00"
+  "verified_at": "2026-11-10",
+  "updated_at": "2026-11-24T04:44:41.091378+08:00",
+  "slot": "2026-11-24-morning",
+  "note_generated_at": "2026-11-24T04:44:41.091378+08:00"
 }
