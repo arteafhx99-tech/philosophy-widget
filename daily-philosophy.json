@@ -1,15 +1,15 @@
 {
-  "original": "liberty consists in doing what one desires, and he does not desire to fall into the river",
-  "english": "liberty consists in doing what one desires, and he does not desire to fall into the river",
-  "chinese": "自由就是做自己想做的事，而他并不想落入河中",
-  "author": "John Stuart Mill",
-  "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
-  "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
+  "original": "Desire of Ease, and sensuall Delight, disposeth men to obey a common Power: because by such Desires, a man doth abandon the protection might be hoped for from his own Industry, and labour.",
+  "english": "Desire of Ease, and sensuall Delight, disposeth men to obey a common Power: because by such Desires, a man doth abandon the protection might be hoped for from his own Industry, and labour.",
+  "chinese": "对安逸和感官享乐的渴望使人们服从共同的权力：因为通过这种欲望，人们放弃了对自身努力和劳动所能期望的保护。",
+  "author": "Thomas Hobbes",
+  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "这段论述体现了约翰·斯图亚特·密尔关于自由的基本观念，即自由是按照自身意愿行动的能力。密尔强调，自由不是任意行动，而是顺应合理的愿望和理性选择。在“他不想落入河中”的例子中，彰显了自由的自我保护性质，即个体的愿望通常指向自身的安全和幸福，从而限制了那些可能自我伤害的行为。若忽视这一层含义，可能将自由简单等同于无约束的随心所欲，导致对密尔自由观念的误读。实际上，密尔强调个人自由应在不损害他人的前提下行使，故此片段可视为自由的动力源泉和合理界限的体现。",
+  "note": "此处霍布斯论述了人类服从权力的动因之一，即对安逸和感官享乐的欲望。他认为，人们因追求轻松和享乐，愿意放弃依赖自身劳动所得的保障，从而服从于共同的权力体系。该观点反映了霍布斯对人性及社会契约动机的深刻理解，强调了欲望在社会秩序形成中的基础作用。潜在误读可能是将“服从权力”解读为被动或盲从，而实际上霍布斯更多是指出理性选择的结果，即为了避免无序与痛苦，人们主动让渡部分自由。他的理论语境是在强调国家权威稳定社会的必要性，并非单纯否定个体能力，而是揭示了集体统治的合理性基础。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-10",
-  "updated_at": "2026-11-23T04:37:42.556604+08:00",
-  "slot": "2026-11-23-morning",
-  "note_generated_at": "2026-11-23T04:37:42.556604+08:00"
+  "verified_at": "2026-11-11",
+  "updated_at": "2026-11-23T13:12:17.269450+08:00",
+  "slot": "2026-11-23-evening",
+  "note_generated_at": "2026-11-23T13:12:17.269450+08:00"
 }
