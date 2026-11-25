@@ -1,15 +1,15 @@
 {
-  "original": "A Restlesse Desire Of Power, In All Men So that in the first place, I put for a generall inclination of all mankind, a perpetuall and restlesse desire of Power after power, that ceaseth onely in Death.",
-  "english": "A Restlesse Desire Of Power, In All Men So that in the first place, I put for a generall inclination of all mankind, a perpetuall and restlesse desire of Power after power, that ceaseth onely in Death.",
-  "chinese": "所有人都有一种永不停息的权力欲望，这种欲望只有在死亡时才停止。",
-  "author": "Thomas Hobbes",
-  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
-  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+  "original": "Thus universals are not thoughts, though when known they are the objects of thoughts.",
+  "english": "Thus universals are not thoughts, though when known they are the objects of thoughts.",
+  "chinese": "因此，普遍性不是思想，尽管当被认识时它们是思想的对象。",
+  "author": "Bertrand Russell",
+  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "霍布斯在《利维坦》中提出，“所有人都有一种永不停息的权力欲望，这种欲望只有在死亡时才停止”，反映了他对人性本质的悲观理解。霍布斯认为，人类天生追求权力以保障自身安全和满足欲望，这种追求是无止境的，不仅体现了个体间的竞争状态，也直接导致了自然状态下的“人人为敌”。这一观点是霍布斯政治哲学的基础，强调强有力的主权者以维持秩序的重要性。需要注意的是，霍布斯的“权力欲望”并非单指政治权力，而是一种对能力和资源的普遍追求。误读可能在于将此欲望简单理解为暴力或统治权的渴求，而忽视了其广泛的社会心理动机及维系社会契约的功能性。",
+  "note": "罗素在此指出“普遍性”（universals）本身并非思想，而是被思想所指向的对象。这一论断反映了他在《哲学问题》中对普遍性问题的分析立场，即普遍性独立于个别的思想存在，但只有被心智认识时，才成为思想的内容。罗素此处区分了存在的对象与思想的内容关系，强调普遍性并非心理状态，而是客观的哲学范畴。这有助于防止将普遍性误解为主观的心理实体，从而避免心理主义的陷阱。同时，该观点揭示了认识论中主体与客体的基本关系，为客观主义的认识论提供了理论支持。用户若理解普遍性即为思想内容，易陷入二元混淆，忽视了它们之间的本体差异。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-10",
-  "updated_at": "2026-11-25T04:46:39.414934+08:00",
-  "slot": "2026-11-25-morning",
-  "note_generated_at": "2026-11-25T04:46:39.414934+08:00"
+  "verified_at": "2026-11-12",
+  "updated_at": "2026-11-25T13:01:50.611658+08:00",
+  "slot": "2026-11-25-evening",
+  "note_generated_at": "2026-11-25T13:01:50.611658+08:00"
 }
