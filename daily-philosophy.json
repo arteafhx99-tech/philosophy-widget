@@ -1,15 +1,15 @@
 {
-  "original": "Thus universals are not thoughts, though when known they are the objects of thoughts.",
-  "english": "Thus universals are not thoughts, though when known they are the objects of thoughts.",
-  "chinese": "因此，普遍性不是思想，尽管当被认识时它们是思想的对象。",
-  "author": "Bertrand Russell",
-  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
-  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+  "original": "And by these, and such other Institutions, they obtayned in order to their end, (which was the peace of the Commonwealth,) that the common people in their misfortunes, laying the fault on neglect, or errour in their Ceremonies, or on their own disobedience to the lawes, were the lesse apt to mutiny against their Governors.",
+  "english": "And by these, and such other Institutions, they obtayned in order to their end, (which was the peace of the Commonwealth,) that the common people in their misfortunes, laying the fault on neglect, or errour in their Ceremonies, or on their own disobedience to the lawes, were the lesse apt to mutiny against their Governors.",
+  "chinese": "通过这些及其他类似的制度，他们达到了目的（即国家的和平），使得普通人在遭遇不幸时，将过错归咎于对仪式的疏忽或错误，或归咎于自己对法律的不服从，从而减少了对统治者的反抗倾向。",
+  "author": "Thomas Hobbes",
+  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "罗素在《哲学问题》中强调了普遍性（universals）与思想之间的区别。他认为普遍性本身并不是思想，它们独立于个别思维存在，但当人们认识普遍性时，这些普遍性便成为思想的对象。这种论断反映了罗素针对传统形而上学中普遍性问题的分析立场，试图避免将普遍性直接等同于主观思维内容，从而维持一种中间的本体论地位。理解这一点对于避免将普遍性误读为仅是心理现象或纯粹主观构造至关重要。罗素强调普遍性的客观性，同时又承认其被认识时的认知属性，体现了他实在论的倾向和对传统本质主义的批判。",
+  "note": "霍布斯在《利维坦》中强调，通过特定的制度安排，国家能够维持和平与秩序。此引文表明，统治者利用仪式和法律制度，将社会不幸的责任转嫁给民众自身的行为或对仪式的疏忽，进而抑制了民众反抗的冲动。这种思想体现了霍布斯“社会契约”与“主权至上”的核心观点，即个人必须屈服于权威以保障公共安全。值得警惕的是，若仅从表面理解，可能会误读为统治者通过仪式迷惑民众，掩盖其自身的失误或暴政，而忽视了霍布斯强调的秩序本质和社会稳定的必要性。实际语境中，霍布斯旨在说明制度对维护和平的重要性，而非单纯操控民众感情。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-12",
-  "updated_at": "2026-11-25T18:55:30.120733+08:00",
-  "slot": "2026-11-25-evening",
-  "note_generated_at": "2026-11-25T18:55:30.120733+08:00"
+  "verified_at": "2026-11-13",
+  "updated_at": "2026-11-26T04:48:29.126153+08:00",
+  "slot": "2026-11-26-morning",
+  "note_generated_at": "2026-11-26T04:48:29.126153+08:00"
 }
