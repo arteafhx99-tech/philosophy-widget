@@ -1,15 +1,15 @@
 {
-  "original": "And by these, and such other Institutions, they obtayned in order to their end, (which was the peace of the Commonwealth,) that the common people in their misfortunes, laying the fault on neglect, or errour in their Ceremonies, or on their own disobedience to the lawes, were the lesse apt to mutiny against their Governors.",
-  "english": "And by these, and such other Institutions, they obtayned in order to their end, (which was the peace of the Commonwealth,) that the common people in their misfortunes, laying the fault on neglect, or errour in their Ceremonies, or on their own disobedience to the lawes, were the lesse apt to mutiny against their Governors.",
-  "chinese": "通过这些及其他类似的制度，他们达到了目的（即国家的和平），使得普通人在遭遇不幸时，将过错归咎于对仪式的疏忽或错误，或归咎于自己对法律的不服从，从而减少了对统治者的反抗倾向。",
-  "author": "Thomas Hobbes",
-  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
-  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+  "original": "The logical principle is as follows: 'Suppose it known that _if_ this is true, then that is true. Suppose it also known that this _is_ true, then it follows that that is true.'",
+  "english": "The logical principle is as follows: 'Suppose it known that _if_ this is true, then that is true. Suppose it also known that this _is_ true, then it follows that that is true.'",
+  "chinese": "逻辑原则如下：‘假设已知如果此为真，则彼为真。假设也已知此为真，则彼必为真。’",
+  "author": "Bertrand Russell",
+  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
+  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "霍布斯在《利维坦》中强调，通过特定的制度安排，国家能够维持和平与秩序。此引文表明，统治者利用仪式和法律制度，将社会不幸的责任转嫁给民众自身的行为或对仪式的疏忽，进而抑制了民众反抗的冲动。这种思想体现了霍布斯“社会契约”与“主权至上”的核心观点，即个人必须屈服于权威以保障公共安全。值得警惕的是，若仅从表面理解，可能会误读为统治者通过仪式迷惑民众，掩盖其自身的失误或暴政，而忽视了霍布斯强调的秩序本质和社会稳定的必要性。实际语境中，霍布斯旨在说明制度对维护和平的重要性，而非单纯操控民众感情。",
+  "note": "此引文摘自罗素《哲学问题》中对基本推理规则的阐述，其核心是经典逻辑中的“假言推理”原则（Modus Ponens）。在哲学语境下，罗素强调逻辑推论的严密性与知识基础，意在表明理性思考必须建立在明确且已知的前提之上，从而确保结论的必然真理性。误读常见于忽视“已知”这一认知状态，误以为只要条件与前件为真即自动导致后件为真，而忽略了我们的“知道”或“已知”这一认知立场。罗素的表述不单是逻辑形式的描述，也隐含认识论考量，即知识的获得和逻辑推理必须结合，不能仅以单纯的形式逻辑推断替代对命题真实性的认定。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-13",
-  "updated_at": "2026-11-26T04:48:29.126153+08:00",
-  "slot": "2026-11-26-morning",
-  "note_generated_at": "2026-11-26T04:48:29.126153+08:00"
+  "verified_at": "2026-11-09",
+  "updated_at": "2026-11-26T13:00:15.968401+08:00",
+  "slot": "2026-11-26-evening",
+  "note_generated_at": "2026-11-26T13:00:15.968401+08:00"
 }
