@@ -1,15 +1,15 @@
 {
-  "original": "The logical principle is as follows: 'Suppose it known that _if_ this is true, then that is true. Suppose it also known that this _is_ true, then it follows that that is true.'",
-  "english": "The logical principle is as follows: 'Suppose it known that _if_ this is true, then that is true. Suppose it also known that this _is_ true, then it follows that that is true.'",
-  "chinese": "逻辑原则如下：‘假设已知如果此为真，则彼为真。假设也已知此为真，则彼必为真。’",
-  "author": "Bertrand Russell",
-  "source": "The Problems of Philosophy (Project Gutenberg, gutenberg-5827)",
-  "source_url": "https://www.gutenberg.org/cache/epub/5827/pg5827.txt",
+  "original": "Naturall Power, is the eminence of the Faculties of Body, or Mind: as extraordinary Strength, Forme, Prudence, Arts, Eloquence, Liberality, Nobility.",
+  "english": "Naturall Power, is the eminence of the Faculties of Body, or Mind: as extraordinary Strength, Forme, Prudence, Arts, Eloquence, Liberality, Nobility.",
+  "chinese": "自然权力是身体或心智能力的卓越表现：如非凡的力量、形态、智慧、艺术、口才、慷慨、高贵。",
+  "author": "Thomas Hobbes",
+  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
+  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "罗素在此论述的是经典逻辑中的最基本的推理规则——“假言推理”（modus ponens）。这一原则揭示了从“如果A，则B”以及“A”为真，必然推出“B”为真的逻辑必然性。语境中，罗素意在展示哲学探讨依赖于清晰的逻辑推理基础，它是认识论中验证知识有效性的核心工具之一。然而，可能存在的误读是将此原则视为直接反映现实世界因果关系的法则，忽视其作为形式逻辑规则的抽象性和语言层面性质。罗素的阐释强调逻辑的普适性与客观性，区别于经验内容，从而为哲学分析提供坚实的思辨基础。",
+  "note": "霍布斯在《利维坦》中论述的“自然权力”概念，强调的是身体与心智能力的卓越表现，涵盖了从力量、形态到智慧和艺术等多方面能力。这一定义体现了霍布斯早期经验主义和功利主义的思想脉络，他关注个体能力在自然状态中的重要性，认为这些能力构成了人与人之间竞争和权力关系的基础。然而，若将自然权力简单理解为固有的“权利”或“合法性”，则可能误读霍布斯的本意。自然权力这里更强调的是能力和潜力的客观存在，而非授予的社会地位或道德价值。理解这一点，有助于把握霍布斯从能力到权威的转换，进而理解他对国家主权和社会契约理论的阐释。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
   "verified_at": "2026-11-09",
-  "updated_at": "2026-11-26T18:56:52.413850+08:00",
-  "slot": "2026-11-26-evening",
-  "note_generated_at": "2026-11-26T18:56:52.413850+08:00"
+  "updated_at": "2026-11-27T04:46:43.367866+08:00",
+  "slot": "2026-11-27-morning",
+  "note_generated_at": "2026-11-27T04:46:43.367866+08:00"
 }
