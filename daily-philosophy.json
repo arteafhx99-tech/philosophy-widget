@@ -1,15 +1,15 @@
 {
-  "original": "To be Honoured, loved, or feared of many, is Honourable; as arguments of Power.",
-  "english": "To be Honoured, loved, or feared of many, is Honourable; as arguments of Power.",
-  "chinese": "被许多人尊敬、爱戴或畏惧，是可敬的；因为这些都是权力的表现。",
-  "author": "Thomas Hobbes",
-  "source": "Leviathan (Project Gutenberg, gutenberg-3207)",
-  "source_url": "https://www.gutenberg.org/cache/epub/3207/pg3207.txt",
+  "original": "The instinct of the woman often enables her not only to apprehend but to illustrate a truth for which she would be totally unable to give the adequate philosophic reasoning.",
+  "english": "The instinct of the woman often enables her not only to apprehend but to illustrate a truth for which she would be totally unable to give the adequate philosophic reasoning.",
+  "chinese": "女性的本能常常使她不仅能够领会，而且能够阐明一种她完全无法给出充分哲学推理的真理。",
+  "author": "John Stuart Mill",
+  "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
+  "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
   "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "霍布斯在《利维坦》中提出，“被许多人尊敬、爱戴或畏惧，是可敬的；因为这些都是权力的表现”这一观点，体现了其权力本体论的核心思想。此处“可敬”并非道德上的崇高，而是指社会地位的客观存在，即个体因其影响力而被承认。霍布斯将“尊敬”、“爱戴”与“畏惧”视为权力的不同形式，强调权力是维系社会秩序的基础，个体的荣誉感来源于其拥有的影响力。可能的误读在于将“可敬”理解为纯粹的道德赞誉，而忽视权力话语中的权势差异，忽略霍布斯强调国家主权与权威的实用主义视角。此语境揭示霍布斯政治哲学中权力与荣耀的不可分割性，强调权威的现实基础而非理想主义的道德评价。",
+  "note": "约翰·斯图尔特·密尔在《论自由》中提及女性的“本能”能够把握并阐明某些真理，而不依赖于严格的哲学推理。这一表述反映了19世纪早期哲学与社会观念中对理性与感性关系的思考。密尔试图指出，理性推理并非认知真理的唯一途径，女性的直觉或者本能具有独特的价值和作用，暗示了知识的多元性和认知方式的多样性。这一观点对当时强调理性主义的哲学传统构成了补充，但也极易被误读为对女性认知能力的限制或刻板印象的固化。事实上，密尔的意图是强调性别平等，肯定女性在知识和社会中的价值，而非简单地将女性能力局限于“本能”层面。理解这一语境有助于避免将其解读为性别歧视。",
   "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-10",
-  "updated_at": "2026-11-27T18:52:55.543292+08:00",
-  "slot": "2026-11-27-evening",
-  "note_generated_at": "2026-11-27T18:52:55.543292+08:00"
+  "verified_at": "2026-11-14",
+  "updated_at": "2026-11-28T04:48:35.358706+08:00",
+  "slot": "2026-11-28-morning",
+  "note_generated_at": "2026-11-28T04:48:35.358706+08:00"
 }
