@@ -1,15 +1,11 @@
 {
-  "original": "The instinct of the woman often enables her not only to apprehend but to illustrate a truth for which she would be totally unable to give the adequate philosophic reasoning.",
-  "english": "The instinct of the woman often enables her not only to apprehend but to illustrate a truth for which she would be totally unable to give the adequate philosophic reasoning.",
-  "chinese": "女性的本能常常使她不仅能够领会，而且能够阐明一种她完全无法给出充分哲学推理的真理。",
-  "author": "John Stuart Mill",
-  "source": "On Liberty (Project Gutenberg, gutenberg-34901)",
-  "source_url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt",
-  "translation_note": "中文为AI工作译文，未经独立译本校勘",
-  "note": "约翰·斯图尔特·密尔在《论自由》中提及女性的“本能”能够把握并阐明某些真理，而不依赖于严格的哲学推理。这一表述反映了19世纪早期哲学与社会观念中对理性与感性关系的思考。密尔试图指出，理性推理并非认知真理的唯一途径，女性的直觉或者本能具有独特的价值和作用，暗示了知识的多元性和认知方式的多样性。这一观点对当时强调理性主义的哲学传统构成了补充，但也极易被误读为对女性认知能力的限制或刻板印象的固化。事实上，密尔的意图是强调性别平等，肯定女性在知识和社会中的价值，而非简单地将女性能力局限于“本能”层面。理解这一语境有助于避免将其解读为性别歧视。",
-  "verification_method": "exact_match_to_retrieved_public_domain_text",
-  "verified_at": "2026-11-14",
-  "updated_at": "2026-11-28T04:48:35.358706+08:00",
-  "slot": "2026-11-28-morning",
-  "note_generated_at": "2026-11-28T04:48:35.358706+08:00"
+  "original": "Je pense, donc je suis.",
+  "english": "I think, therefore I am.",
+  "chinese": "我思，故我在。",
+  "author": "René Descartes",
+  "source": "Discours de la méthode, IV (1637)",
+  "note": "“我思，故我在”是笛卡尔在其《方法谈》第四部分提出的哲学命题，旨在通过怀疑一切知识来寻求不可动摇的确定性。在思想语境中，这句话强调思维活动本身作为存在的根本证据，即无论怀疑什么，怀疑的行为指示思维的存在，从而证明怀疑者的存在。此命题常被误读为简单的存在论断或自我肯定，忽视了其作为方法论工具的功能，即借助理性反思澄清知识基础。此外，将“我思”理解为仅限于抽象理性思维，可能忽略了笛卡尔关于主体意识普遍性的更深层意涵，这在现代哲学讨论中是重要的辨析点。",
+  "updated_at": "2026-11-28T12:55:50.266474+08:00",
+  "slot": "2026-11-28-evening",
+  "note_generated_at": "2026-11-28T12:55:50.266474+08:00"
 }
